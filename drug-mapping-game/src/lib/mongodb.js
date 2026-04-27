@@ -1,6 +1,6 @@
 import { MongoClient } from 'mongodb'
 
-const uri = process.env.MONGODB_URI || "mongodb+srv://***REDACTED***@oncref.se0af.mongodb.net/?retryWrites=true&w=majority&appName=OncRef"
+const uri = process.env.MONGODB_URI
 
 let client
 let clientPromise
