@@ -24,6 +24,7 @@ Schema (fields omitted when empty so Mongo docs don't carry blank columns):
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import time
@@ -43,7 +44,7 @@ PAGES_CACHE = ROOT / "aacr2025_pages.jsonl"  # streaming: one page per line
 JSON_OUT = ROOT / "aacr2025_abstracts.json"
 PROGRESS_LOG = ROOT / "aacr2025_progress.log"
 
-MONGO_URI = "mongodb+srv://dakshmehta:mehtadaksh@oncref.se0af.mongodb.net/"
+MONGO_URI = os.environ["MONGO_URI"]
 DB_NAME = "Conferences"
 COLL_NAME = "AACR_2025"
 
