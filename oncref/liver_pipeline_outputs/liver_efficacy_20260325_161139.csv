@@ -1,0 +1,178 @@
+Trial (NCT),Condition,Arm,Interventions,OS median,OS 95% CI low,OS 95% CI high,OS N,PFS median,PFS 95% CI low,PFS 95% CI high,PFS N,ORR %,CT.gov last updated
+NCT00493467,Lymphoma,Zevalin,"Ibritumomab Tiuxetan (Zevalin), Rituximab",,,,,,,,,67.7,2022-09-15
+NCT02592707,Neuroendocrine Tumors,All Participants,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,32.5,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part A: 177Lu-IPN01072 4.5 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,40.0,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part B Cohort 1: 177Lu-IPN01072 6 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,16.7,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part B Cohort 3: 177Lu-IPN01072 4.5 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,22.2,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part B Cohort 6: 177Lu-IPN01072 4.5 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,40.0,2023-07-19
+NCT01145209,"Leukemia, Lymphocytic, Chronic, B-Cell",FCO Arm,"Fludarabine Phosphate, Ofatumumab, Cyclophosphamide",10.0,,,10.0,,,,,6.0,2023-11-28
+NCT01145209,"Leukemia, Lymphocytic, Chronic, B-Cell",FO + FCO Arms,"Fludarabine Phosphate, Ofatumumab, Cyclophosphamide",,,,,,,,,,2023-11-28
+NCT01145209,"Leukemia, Lymphocytic, Chronic, B-Cell",FO Arm,"Fludarabine Phosphate, Ofatumumab, Cyclophosphamide",18.0,,,18.0,,,,,2.0,2023-11-28
+NCT00420199,,Abatacept + Methotrexate,"Abatacept, Placebo",,,,,,,,,,2012-01-18
+NCT00420199,,Placebo + Methotrexate,"Abatacept, Placebo",,,,,,,,,,2012-01-18
+NCT01841632,,MultiStem - Cohort 1,MultiStem,,,,,,,,,,2018-08-17
+NCT00320606,,Immunosuppression Withdrawal Arm,Immunosuppression Withdrawal,,,,,,,,,,2018-09-20
+NCT00837148,Sarcoma,Soft Tissue Sarcoma Patients,Sorafenib and Dacarbazine,,,,,,,,,5.0,2015-11-20
+NCT02519348,"Carcinoma, Hepatocellular",China Cohort: Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",30.69,13.96,,3.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",China Cohort: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",6.28,0.66,23.82,6.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",China Cohort: Tremelimumab 10 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",3.52,2.2,20.96,5.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Part 1: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",12.58,6.87,20.99,40.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Part 4: Durvalumab 1120 mg + Bevacizumab 15 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",,12.52,,47.0,,,,,21.3,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",12.91,8.74,16.79,104.0,,,,,11.5,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 300 mg + Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",17.05,10.55,22.83,75.0,,,,,24.0,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 75 mg + Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",11.3,8.38,14.95,84.0,,,,,9.5,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 750 mg,"Tremelimumab, Durvalumab, Bevacizumab",17.05,11.33,20.24,69.0,,,,,7.2,2026-02-17
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm A: MK-1308 25 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm B: MK-1308 25 mg Q6W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm C: MK-1308 75 mg Q6W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm D: MK-1308 75 mg Q6W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm E: MK-1308 75 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm F: MK-1308 25 mg Q6W + Pembro. 400 mg Q6W Co-admin,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,4.9,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm F: MK-1308 25 mg Q6W + Pembro. 400 mg Q6W Co-admin After Crossover,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm G: MK-1308 25 mg Q6W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,2.5,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm I: MK-1308A Q6W (Co-form),"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm K: MK-1308A Q6W (Co-form),"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Cohort 1: MK-1308 25 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Cohort 2: MK-1308 75 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Cohort 3: MK-1308 200 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT02935634,,Track 1: Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 1: Nivolumab + BMS-986016,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,5.0,2023-06-09
+NCT02935634,,Track 1: Nivolumab + BMS-986205,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,13.2,2023-06-09
+NCT02935634,,Track 1: Nivolumab + Ipilimumab,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,4.3,2023-06-09
+NCT02935634,,Track 1: Nivolumab + Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,16.7,2023-06-09
+NCT02935634,,Track 1: Nivolumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Nivolumab + BMS-986016,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,5.6,2023-06-09
+NCT02935634,,Track 2: Nivolumab + BMS-986205,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Nivolumab + Ipilimumab,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,8.7,2023-06-09
+NCT02935634,,Track 2: Nivolumab + Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Nivolumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT00324155,Melanoma,Ipilimumab and Dacarbazine,"Ipilimumab, Placebo, Dacarbazine",11.17,9.4,13.6,250.0,2.76,2.63,3.29,250.0,15.2,2014-11-03
+NCT00324155,Melanoma,Placebo and Dacarbazine,"Ipilimumab, Placebo, Dacarbazine",9.07,7.75,10.51,252.0,2.6,2.56,2.66,252.0,10.3,2014-11-03
+NCT00183885,"Carcinoma, Hepatocellular",Cisplatin + Mitomycin-C,"mitomycin-c, cisplatin",,,,,,,,,,2025-10-30
+NCT03770689,,Peposertib 100 mg + RT + Capecitabine:,"Peposertib 50 mg, Peposertib 100 mg, Peposertib 150 mg, Peposertib 250 mg, Capecitabine, Radiotherapy (RT)",,,,,,,,,,2023-03-21
+NCT03770689,,Peposertib 150 mg + RT + Capecitabine:,"Peposertib 50 mg, Peposertib 100 mg, Peposertib 150 mg, Peposertib 250 mg, Capecitabine, Radiotherapy (RT)",,,,,,,,,,2023-03-21
+NCT03770689,,Peposertib 250 mg + RT + Capecitabine:,"Peposertib 50 mg, Peposertib 100 mg, Peposertib 150 mg, Peposertib 250 mg, Capecitabine, Radiotherapy (RT)",,,,,,,,,,2023-03-21
+NCT03770689,,Peposertib 50 mg + RT + Capecitabine:,"Peposertib 50 mg, Peposertib 100 mg, Peposertib 150 mg, Peposertib 250 mg, Capecitabine, Radiotherapy (RT)",,,,,,,,,,2023-03-21
+NCT01015833,"Carcinoma, Hepatocellular","Arm I (Doxorubicin Hydrochloride, Sorafenib Tosylate)","Doxorubicin Hydrochloride, Laboratory Biomarker Analysis, Pharmacogenomic Study, Sorafenib Tosylate",8.9,7.1,10.8,180.0,,,,,7.3,2022-08-04
+NCT01015833,"Carcinoma, Hepatocellular",Arm II (Sorafenib Tosylate),"Doxorubicin Hydrochloride, Laboratory Biomarker Analysis, Pharmacogenomic Study, Sorafenib Tosylate",10.5,7.6,13.8,176.0,,,,,3.3,2022-08-04
+NCT02825550,Liver Neoplasms,Adverse Event,Taiwan ACE Beads,,,,,,,,,,2018-08-07
+NCT02157974,Fatty Liver,Control,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Fatty Liver,PCOS Medication Naive,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Fatty Liver,PCOS on COCPs,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Fatty Liver,PCOS on Metformin,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Fatty Liver,"PCOS, Medication Naive + Byetta",Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02007954,"Carcinoma, Hepatocellular",DEBDOX,DEBDOX,,,,,,,,,,2017-08-11
+NCT02611323,"Lymphoma, Non-Hodgkin",DLBCL Dose Escalation: 1.8P+800V+375R,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,50.0,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",DLBCL Dose Expansion: 1.8P+800V+375R,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,72.5,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL Dose Escalation: 1.4P+200V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL Dose Escalation: 1.4P+400V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL Dose Escalation: 1.4P+600V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL Dose Escalation: 1.8P+400V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL Dose Escalation: 1.8P+600V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL Dose Escalation: 1.8P+800V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,100.0,2023-10-10
+NCT02611323,"Lymphoma, Non-Hodgkin",FL: Dose Expansion: 1.8P+800V+1000G,"Obinutuzumab, Rituximab, Polatuzumab Vedotin, Venetoclax",,,,,,,,,87.8,2023-10-10
+NCT00996996,"Lymphoma, Non-Hodgkin",Tositumomab and Iodine I-131 Tositumomab,Tositumomab and Iodine I 131 Tositumomab (Anti-B1 Antibody and Iodine-131 Anti-B1 Antibody),,,,15.0,74.3,32.4,118.2,51.0,,2017-01-11
+NCT02129478,Vomiting,Olanzapine,Olanzapine,,,,,,,,,,2020-04-07
+NCT00471497,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",All Patients,"nilotinib, imatinib",,,,,,,,,,2020-11-18
+NCT00471497,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Imatinib 400 mg QD,"nilotinib, imatinib",,,,283.0,,,,283.0,,2020-11-18
+NCT00471497,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Nilotinb 300 mg BID,"nilotinib, imatinib",,,,282.0,,,,282.0,,2020-11-18
+NCT00471497,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Nilotinib 300 mg BID,"nilotinib, imatinib",,,,,,,,,,2020-11-18
+NCT00471497,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",Nilotinib 400 mg BID,"nilotinib, imatinib",,,,281.0,,,,281.0,,2020-11-18
+NCT02471313,Liver Neoplasms,[18F] FMISO PET Scan,[18F] FMISO,,,,,,,,,,2019-04-23
+NCT00605722,Liver Neoplasms,Bevacizumab + Erlotinib,"bevacizumab (Avastin), erlotinib (Tarceva)",10.7,7.4,,51.0,35.3,22.4,49.9,51.0,0.0,2014-07-14
+NCT03026803,Liver Neoplasms,Oxaliplatin and Capecitabine,"Oxaliplatin, Capecitabine",,,,,,,,,,2017-04-13
+NCT01099631,Liver Neoplasms,Salmonella Typhimurium 10 to the 10 th - Level 6,Salmonella typhimurium,,,,,,,,,,2020-07-20
+NCT01099631,Liver Neoplasms,Salmonella Typhimurium 10 to the 5 th - Level 1,Salmonella typhimurium,,,,,,,,,,2020-07-20
+NCT01099631,Liver Neoplasms,Salmonella Typhimurium 10 to the 6 th - Level 2,Salmonella typhimurium,,,,,,,,,,2020-07-20
+NCT01099631,Liver Neoplasms,Salmonella Typhimurium 10 to the 7 th - Level 3,Salmonella typhimurium,,,,,,,,,,2020-07-20
+NCT01099631,Liver Neoplasms,Salmonella Typhimurium 10 to the 8 th - Level 4,Salmonella typhimurium,,,,,,,,,,2020-07-20
+NCT01099631,Liver Neoplasms,Salmonella Typhimurium 10 to the 9 th - Level 5,Salmonella typhimurium,,,,,,,,,,2020-07-20
+NCT00582166,"Lymphoma, Non-Hodgkin",Zevalin With Rituximab Maintenance,Ibritumomab Tiuxetan (Zevalin) + Rituximab,93.0,80.0,100.0,16.0,,,,,,2019-12-13
+NCT00131937,"Lymphoma, Large-Cell, Anaplastic",Treatment (Sorafenib),sorafenib tosylate,9.0,5.0,16.0,14.0,2.0,1.0,5.0,14.0,0.07,2015-09-03
+NCT02951156,"Lymphoma, Large B-Cell, Diffuse",Avelumab+Azacitidine+Utomilumab,"Avelumab, Utomilumab, Rituximab, Azacitidine, Bendamustine, Gemcitabine, Oxaliplatin",4.0,0.3,11.3,9.0,1.5,0.3,1.8,9.0,0.0,2020-12-17
+NCT02951156,"Lymphoma, Large B-Cell, Diffuse",Avelumab+Bendamustine+Rituximab,"Avelumab, Utomilumab, Rituximab, Azacitidine, Bendamustine, Gemcitabine, Oxaliplatin",5.2,1.3,,11.0,2.7,1.3,,11.0,27.3,2020-12-17
+NCT02951156,"Lymphoma, Large B-Cell, Diffuse",Avelumab+Rituximab+Utomilumab,"Avelumab, Utomilumab, Rituximab, Azacitidine, Bendamustine, Gemcitabine, Oxaliplatin",14.8,0.9,,9.0,1.8,0.6,3.5,9.0,11.1,2020-12-17
+NCT01114503,Graves Ophthalmopathy,Otelixizumab Cohort A1,"Otelixizumab - low dose, Otelixizumab - medium low dose, Otelixizumab - medium high dose, Otelixizumab - high dose, Otelixizumab, Methylprednisolone",,,,,,,,,,2020-10-30
+NCT00066573,Breast Neoplasms,Anastrozole,"anastrozole, exemestane",92.0,91.0,93.0,3787.0,,,,,,2023-08-25
+NCT00066573,Breast Neoplasms,Exemestane,"anastrozole, exemestane",92.0,91.0,93.0,3789.0,,,,,,2023-08-25
+NCT04283994,Dementia,Clinicians,"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT04283994,Dementia,EHR-based Clinician-facing Jumpstart [Family],"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT04283994,Dementia,EHR-based Clinician-facing Jumpstart [Patient],"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT04283994,Dementia,Survey-based Bi-directional Jumpstart [Family],"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT04283994,Dementia,Survey-based Bi-directional Jumpstart [Patient],"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT04283994,Dementia,Usual Care [Family],"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT04283994,Dementia,Usual Care [Patient],"Survey-based Patient/Clinician Jumpstart, EHR-based Clinician Jumpstart",,,,,,,,,,2025-06-24
+NCT02762266,"Carcinoma, Hepatocellular",Stereotactic Body Radiation Therapy (SBRT),"Stereotactic Body Radiation Therapy, Transarterial Chemoembolization, embolic agent, lipiodol",,,,6.0,,,,6.0,,2024-03-12
+NCT02762266,"Carcinoma, Hepatocellular",Transarterial Chemoembolization (TACE),"Stereotactic Body Radiation Therapy, Transarterial Chemoembolization, embolic agent, lipiodol",,,,4.0,,,,4.0,,2024-03-12
+NCT00262951,Pancreatic Neoplasms,Pancreatic Adenocarcinoma Patients,"recombinant interferon alfa, cisplatin, fluorouracil, radiation therapy, Resection of tumor",11.5,7.5,15.2,23.0,,,,,,2017-12-28
+NCT01680991,"Leukemia, Lymphoid",CLL: 1000 mg Obinutuzumab,Obinutuzumab,,,,,,,,,,2016-04-25
+NCT01680991,"Leukemia, Lymphoid",DLBCL: 1000 mg Obinutuzumab,Obinutuzumab,,,,,,,,,0.0,2016-04-25
+NCT01680991,"Leukemia, Lymphoid",FL: 1000 mg Obinutuzumab,Obinutuzumab,,,,,,,,,0.0,2016-04-25
+NCT03654040,,"Enrolled, Received arTregs","arTreg, leukapheresis, cyclophosphamide, mesna, everolimus",,,,,,,,,,2024-04-23
+NCT03439891,"Carcinoma, Hepatocellular","All Treatment Groups Combined (Sorafenib, Nivolumab)","Nivolumab, Sorafenib",12.99,1.7,42.0,16.0,2.58,2.58,,16.0,0.063,2025-02-11
+NCT03439891,"Carcinoma, Hepatocellular","Part 2: Child Pugh B Expansion Cohort (Sorafenib, Nivolumab)","Nivolumab, Sorafenib",,,,,,,,,,2025-02-11
+NCT00822120,Lymphoma,HIV-negative and PET-negative: Continued ABVD,"bleomycin sulfate, filgrastim, ABVD regimen, BEACOPP regimen, cyclophosphamide, dacarbazine, doxorubicin hydrochloride, etoposide, prednisone, procarbazine hydrochloride, vinblastine sulfate, vincristine sulfate",,,,,,,,,,2022-08-18
+NCT00822120,Lymphoma,HIV-negative and PET-positive: BEACOPP Escalated,"bleomycin sulfate, filgrastim, ABVD regimen, BEACOPP regimen, cyclophosphamide, dacarbazine, doxorubicin hydrochloride, etoposide, prednisone, procarbazine hydrochloride, vinblastine sulfate, vincristine sulfate",,,,,,,,,,2022-08-18
+NCT00822120,Lymphoma,HIV-negative: 2 Cycles of ABVD Followed by PET-directed Therap,"bleomycin sulfate, filgrastim, ABVD regimen, BEACOPP regimen, cyclophosphamide, dacarbazine, doxorubicin hydrochloride, etoposide, prednisone, procarbazine hydrochloride, vinblastine sulfate, vincristine sulfate",,,,,79.0,74.0,83.0,336.0,,2022-08-18
+NCT00822120,Lymphoma,HIV-negative: Initial ABVD,"bleomycin sulfate, filgrastim, ABVD regimen, BEACOPP regimen, cyclophosphamide, dacarbazine, doxorubicin hydrochloride, etoposide, prednisone, procarbazine hydrochloride, vinblastine sulfate, vincristine sulfate",,,,,,,,,,2022-08-18
+NCT00822120,Lymphoma,HIV-negative:2 Cycles of ABVD Followed by PET-directed Therapy,"bleomycin sulfate, filgrastim, ABVD regimen, BEACOPP regimen, cyclophosphamide, dacarbazine, doxorubicin hydrochloride, etoposide, prednisone, procarbazine hydrochloride, vinblastine sulfate, vincristine sulfate",98.0,95.0,99.0,336.0,,,,,98.0,2022-08-18
+NCT03049449,"Lymphoma, Large-Cell, Anaplastic",Dose Escalation Cohort 1 Dose Level 1 - 0.3x10^6 Chimeric Antigen Receptor (CAR) T Cells Per kg,"Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells, Cyclophosphamide, Fludarabine",,,,,,,,,,2023-01-18
+NCT03049449,"Lymphoma, Large-Cell, Anaplastic",Dose Escalation Cohort 1 Dose Level 2 - 1.0x10^6 Chimeric Antigen Receptor (CAR) T Cells Per kg,"Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells, Cyclophosphamide, Fludarabine",,,,,,,,,,2023-01-18
+NCT03049449,"Lymphoma, Large-Cell, Anaplastic",Dose Escalation Cohort 1 Dose Level 3 - 3.0x10^6 Chimeric Antigen Receptor (CAR) T Cells Per kg,"Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells, Cyclophosphamide, Fludarabine",,,,,,,,,,2023-01-18
+NCT03049449,"Lymphoma, Large-Cell, Anaplastic",Dose Escalation Cohort 1 Dose Level 4 - 9.0x10^6 Chimeric Antigen Receptor (CAR) T Cells Per kg,"Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells, Cyclophosphamide, Fludarabine",,,,,,,,,,2023-01-18
+NCT03049449,"Lymphoma, Large-Cell, Anaplastic",Dose Escalation Cohort 2 Dose Level 1 - 0.3x10^6 Chimeric Antigen Receptor (CAR) T Cells Per kg,"Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells, Cyclophosphamide, Fludarabine",,,,,,,,,,2023-01-18
+NCT03049449,"Lymphoma, Large-Cell, Anaplastic",Dose Escalation Cohort 2 Dose Level 2 - 3.0x10^6 Chimeric Antigen Receptor (CAR) T Cells Per kg,"Anti-Tumor Necrosis Factor (TNF) Receptor Superfamily Member 8 (CD30) Chimeric Antigen Receptor (CAR) T cells, Cyclophosphamide, Fludarabine",,,,,,,,,,2023-01-18
+NCT02859415,Esophageal Neoplasms,Phase I Dose Level -1 Mithramycin 60 mcg/kg Followed by Mithramycin 30 mcg/kg,Mithramycin,,,,,,,,,,2022-04-05
+NCT02859415,Esophageal Neoplasms,Phase I Dose Level 1 Mithramycin 60 mcg/kg,Mithramycin,,,,,,,,,,2022-04-05
+NCT00858117,Leukemia,Alemtuzumab and Rituximab,"Alemtuzumab, Rituximab",,,,,,,,,,2020-11-06
+NCT00206726,"Leukemia, Lymphocytic, Chronic, B-Cell",Alemtuzumab Plus Fludarabine,Alemtuzumab plus Fludarabine,86.4,,,57.0,48.8,,,60.0,28.3,2016-08-29
+NCT03058289,Breast Neoplasms,INT 230-6 Combined With Ipilimumab (Cohort FEC),"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,INT 230-6 Combined With Pembrolizumab (Cohort DEC),"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,INT 230-6 Combined With Pembrolizumab (Cohort DEC2),"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,Monotherapy: Cohort A1,"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,Monotherapy: Cohort B1,"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,Monotherapy: Cohort EA,"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,Monotherapy: Cohort EC,"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,Monotherapy: Cohort EC-2,"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03058289,Breast Neoplasms,Monotherapy: Cohort EC3,"INT230-6, anti-PD-1 antibody, anti-CTLA-4 antibody",,,,,,,,,,2025-02-27
+NCT03590574,"Lymphoma, T-Cell",All Treated Patients Evaluable for OS,AUTO4,,,,15.0,,,,,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",All Treated Patients Evaluable for PFS,AUTO4,,,,,2.89,0.95,6.54,15.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Patients Leukapheresed But Not Treated,AUTO4,,,,,,,,,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation - Cohort 1,AUTO4,,,,3.0,,,,3.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation - Cohort 2,AUTO4,,,,2.0,,,,2.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation - Cohort 3,AUTO4,,,,1.0,,,,1.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation - Cohort 4,AUTO4,,,,4.0,,,,4.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation With Modified Manufacturing Process - Cohort 3,AUTO4,,,,1.0,,,,1.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation With Modified Manufacturing Process - Cohort 4,AUTO4,,,,3.0,,,,3.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Phase I Dose Escalation With Modified Manufacturing Process - Cohort 5,AUTO4,,,,1.0,,,,1.0,,2026-03-16
+NCT03590574,"Lymphoma, T-Cell",Total,AUTO4,,,,,,,,,,2026-03-16
+NCT01668784,Neoplasm Metastasis,Everolimus,"Nivolumab, Everolimus",19.55,17.64,23.06,411.0,4.5,3.71,5.52,411.0,6.1,2022-08-09
+NCT01668784,Neoplasm Metastasis,Nivolumab,"Nivolumab, Everolimus",25.0,21.75,,410.0,4.21,3.68,5.36,410.0,25.9,2022-08-09
+NCT01500733,Leukemia,Elderly Cohort,PCI 32765,,,,,,,,,93.9,2024-09-19
+NCT01500733,Leukemia,TP53 Cohort,PCI 32765,,,,,,,,,95.8,2024-09-19
+NCT05216835,Recurrence,Cohort A1,Sabestomig (AZD7789),,,,1.0,,,,1.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A2,Sabestomig (AZD7789),,,,1.0,,,,1.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A3,Sabestomig (AZD7789),,,,1.0,,,,1.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A4,Sabestomig (AZD7789),,,,1.0,,,,1.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A5,Sabestomig (AZD7789),,1.4,,5.0,1.9,1.4,,5.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A6,Sabestomig (AZD7789),,,,12.0,4.8,2.4,11.9,12.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A7,Sabestomig (AZD7789),,,,12.0,5.7,1.8,,12.0,,2025-10-02
+NCT05216835,Recurrence,Cohort A8,Sabestomig (AZD7789),,8.4,,12.0,2.1,1.6,8.1,12.0,,2025-10-02
+NCT05424380,"Leukemia, Myeloid, Acute",Part 1: GSK3745417 100 ug,GSK3745417,,,,,,,,,,2025-03-25
+NCT05424380,"Leukemia, Myeloid, Acute",Part 1: GSK3745417 12.5 ug,GSK3745417,,,,,,,,,,2025-03-25
+NCT05424380,"Leukemia, Myeloid, Acute",Part 1: GSK3745417 200 ug,GSK3745417,,,,,,,,,,2025-03-25
+NCT05424380,"Leukemia, Myeloid, Acute",Part 1: GSK3745417 25 ug,GSK3745417,,,,,,,,,,2025-03-25
+NCT05424380,"Leukemia, Myeloid, Acute",Part 1: GSK3745417 300 ug,GSK3745417,,,,,,,,,,2025-03-25
+NCT05424380,"Leukemia, Myeloid, Acute",Part 1: GSK3745417 50 ug,GSK3745417,,,,,,,,,,2025-03-25
+NCT02200042,Cholangiocarcinoma,Observation,Image Guided Radiation Therapy,,,,,,,,,,2019-08-28
+NCT02200042,Cholangiocarcinoma,Radiation Therapy,Image Guided Radiation Therapy,,,,,,,,,,2019-08-28
+NCT00372905,Lymphoma,Cohort 1+ Cohort 2+ Cohort 3,"rituximab, bortezomib, Ibritumomab tiuxetan",,,,,,,,,89.0,2019-09-04
+NCT00379769,"Diabetes Mellitus, Type 2",Combined MET/SU: Observational Follow-up,"Rosiglitazone, Sulfonylurea, Metformin",,,,,,,,,,2017-03-23
+NCT00379769,"Diabetes Mellitus, Type 2",Combined RSG: Observational Follow-up,"Rosiglitazone, Sulfonylurea, Metformin",,,,,,,,,,2017-03-23
+NCT00379769,"Diabetes Mellitus, Type 2",MET in Addition to Background SU,"Rosiglitazone, Sulfonylurea, Metformin",,,,,,,,,,2017-03-23
+NCT00379769,"Diabetes Mellitus, Type 2",RSG in Addition to Background MET,"Rosiglitazone, Sulfonylurea, Metformin",,,,,,,,,,2017-03-23
+NCT00379769,"Diabetes Mellitus, Type 2",RSG in Addition to Background SU,"Rosiglitazone, Sulfonylurea, Metformin",,,,,,,,,,2017-03-23
+NCT00379769,"Diabetes Mellitus, Type 2",SU in Addition to Background MET,"Rosiglitazone, Sulfonylurea, Metformin",,,,,,,,,,2017-03-23
+NCT02465515,Diabetes Mellitus,Albiglutide,"Albiglutide 30 mg, Albiglutide 50 mg, Albiglutide matching placebo",,,,,,,,,,2019-03-06
+NCT02465515,Diabetes Mellitus,Placebo,"Albiglutide 30 mg, Albiglutide 50 mg, Albiglutide matching placebo",,,,,,,,,,2019-03-06

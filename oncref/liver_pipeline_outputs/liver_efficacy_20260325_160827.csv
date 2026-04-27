@@ -1,0 +1,51 @@
+Trial (NCT),Condition,Arm,Interventions,OS median,OS 95% CI low,OS 95% CI high,OS N,PFS median,PFS 95% CI low,PFS 95% CI high,PFS N,ORR %,CT.gov last updated
+NCT00493467,Lymphoma,Zevalin,"Ibritumomab Tiuxetan (Zevalin), Rituximab",,,,,,,,,67.7,2022-09-15
+NCT02592707,Neuroendocrine Tumors,All Participants,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,32.5,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part A: 177Lu-IPN01072 4.5 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,40.0,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part B Cohort 1: 177Lu-IPN01072 6 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,16.7,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part B Cohort 3: 177Lu-IPN01072 4.5 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,22.2,2023-07-19
+NCT02592707,Neuroendocrine Tumors,Part B Cohort 6: 177Lu-IPN01072 4.5 GBq,"Satoreotide tetraxetan, Amino acid solution, Antiemetic",,,,,,,,,40.0,2023-07-19
+NCT01145209,"Leukemia, Lymphocytic, Chronic, B-Cell",FCO Arm,"Fludarabine Phosphate, Ofatumumab, Cyclophosphamide",10.0,,,10.0,,,,,6.0,2023-11-28
+NCT01145209,"Leukemia, Lymphocytic, Chronic, B-Cell",FO + FCO Arms,"Fludarabine Phosphate, Ofatumumab, Cyclophosphamide",,,,,,,,,,2023-11-28
+NCT01145209,"Leukemia, Lymphocytic, Chronic, B-Cell",FO Arm,"Fludarabine Phosphate, Ofatumumab, Cyclophosphamide",18.0,,,18.0,,,,,2.0,2023-11-28
+NCT00420199,,Abatacept + Methotrexate,"Abatacept, Placebo",,,,,,,,,,2012-01-18
+NCT00420199,,Placebo + Methotrexate,"Abatacept, Placebo",,,,,,,,,,2012-01-18
+NCT01841632,,MultiStem - Cohort 1,MultiStem,,,,,,,,,,2018-08-17
+NCT00320606,,Immunosuppression Withdrawal Arm,Immunosuppression Withdrawal,,,,,,,,,,2018-09-20
+NCT00837148,Sarcoma,Soft Tissue Sarcoma Patients,Sorafenib and Dacarbazine,,,,,,,,,5.0,2015-11-20
+NCT02519348,"Carcinoma, Hepatocellular",China Cohort: Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",30.69,13.96,,3.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",China Cohort: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",6.28,0.66,23.82,6.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",China Cohort: Tremelimumab 10 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",3.52,2.2,20.96,5.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Part 1: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",12.58,6.87,20.99,40.0,,,,,,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Part 4: Durvalumab 1120 mg + Bevacizumab 15 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",,12.52,,47.0,,,,,21.3,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",12.91,8.74,16.79,104.0,,,,,11.5,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 300 mg + Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",17.05,10.55,22.83,75.0,,,,,24.0,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 75 mg + Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",11.3,8.38,14.95,84.0,,,,,9.5,2026-02-17
+NCT02519348,"Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 750 mg,"Tremelimumab, Durvalumab, Bevacizumab",17.05,11.33,20.24,69.0,,,,,7.2,2026-02-17
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm A: MK-1308 25 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm B: MK-1308 25 mg Q6W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm C: MK-1308 75 mg Q6W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm D: MK-1308 75 mg Q6W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm E: MK-1308 75 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm F: MK-1308 25 mg Q6W + Pembro. 400 mg Q6W Co-admin,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,4.9,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm F: MK-1308 25 mg Q6W + Pembro. 400 mg Q6W Co-admin After Crossover,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm G: MK-1308 25 mg Q6W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,2.5,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm I: MK-1308A Q6W (Co-form),"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Arm K: MK-1308A Q6W (Co-form),"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Cohort 1: MK-1308 25 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Cohort 2: MK-1308 75 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT03179436,"Parkinson Disease 4, Autosomal Dominant Lewy Body",Cohort 3: MK-1308 200 mg Q3W + Pembro. 200 mg Q3W,"Quavonlimab, Pembrolizumab, Pembrolizumab/Quavonlimab",,,,,,,,,,2025-04-08
+NCT02935634,,Track 1: Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 1: Nivolumab + BMS-986016,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,5.0,2023-06-09
+NCT02935634,,Track 1: Nivolumab + BMS-986205,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,13.2,2023-06-09
+NCT02935634,,Track 1: Nivolumab + Ipilimumab,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,4.3,2023-06-09
+NCT02935634,,Track 1: Nivolumab + Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,16.7,2023-06-09
+NCT02935634,,Track 1: Nivolumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Nivolumab + BMS-986016,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,5.6,2023-06-09
+NCT02935634,,Track 2: Nivolumab + BMS-986205,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Nivolumab + Ipilimumab,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,8.7,2023-06-09
+NCT02935634,,Track 2: Nivolumab + Ipilimumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT02935634,,Track 2: Nivolumab + Rucaparib,"Nivolumab, Ipilimumab, Relatlimab, BMS-986205, Rucaparib",,,,,,,,,0.0,2023-06-09
+NCT00324155,Melanoma,Ipilimumab and Dacarbazine,"Ipilimumab, Placebo, Dacarbazine",11.17,9.4,13.6,250.0,2.76,2.63,3.29,250.0,15.2,2014-11-03
+NCT00324155,Melanoma,Placebo and Dacarbazine,"Ipilimumab, Placebo, Dacarbazine",9.07,7.75,10.51,252.0,2.6,2.56,2.66,252.0,10.3,2014-11-03

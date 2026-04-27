@@ -1,0 +1,8 @@
+{
+  "generated_at": "20260325_173641",
+  "nct_count_input": "5422",
+  "trial_docs": "liver_pipeline_outputs/liver_trial_documents_20260325_173641.json",
+  "efficacy_csv": "liver_pipeline_outputs/liver_efficacy_20260325_173641.csv",
+  "safety_csv": "liver_pipeline_outputs/liver_safety_20260325_173641.csv",
+  "nct_csv": "liver_pipeline_outputs/liver_ncts_20260325_173641.csv"
+}
