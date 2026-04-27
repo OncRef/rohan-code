@@ -1,0 +1,65 @@
+{
+  "nct_id": "NCT01607957",
+  "condition": "Colorectal Neoplasms",
+  "interventions": [
+    "TAS-102",
+    "Placebo"
+  ],
+  "metrics": {
+    "Placebo": {
+      "os": {
+        "median": 5.3,
+        "ci": [
+          4.6,
+          6.0
+        ],
+        "n": 266,
+        "unit": "months"
+      },
+      "pfs": {
+        "median": 1.7,
+        "ci": [
+          1.7,
+          1.8
+        ],
+        "n": 266,
+        "unit": "months"
+      },
+      "ae": {
+        "overall_ae_pct": 93.2,
+        "serious_ae_pct": 33.6,
+        "discontinuation_ae_pct": 13.6
+      }
+    },
+    "TAS-102": {
+      "os": {
+        "median": 7.1,
+        "ci": [
+          6.5,
+          7.8
+        ],
+        "n": 534,
+        "unit": "months"
+      },
+      "pfs": {
+        "median": 2.0,
+        "ci": [
+          1.9,
+          2.1
+        ],
+        "n": 534,
+        "unit": "months"
+      },
+      "ae": {
+        "overall_ae_pct": 98.3,
+        "serious_ae_pct": 29.6,
+        "discontinuation_ae_pct": 10.3
+      }
+    }
+  },
+  "pubmed_references": [],
+  "ctgov_results_first_posted": "2019-05-21",
+  "ctgov_results_last_updated": "2024-09-19",
+  "primary_pubmed_publication_date": null,
+  "pubmed_newer_than_ctgov": null
+}

@@ -1,0 +1,74 @@
+company_name,priority,score,phase,conditions,latest_start,trial_count,key_signal,source,clinicaltrials_url
+Hao Xu,high,80,Pre-clinical,"Breast Cancer With Low to Intermediate HER2 Expression, Breast Cancer",2028-01-01,1,Pre-clinical / IND stage,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Hao%20Xu
+Asmaa Hassan mohamed Abdel Mawjoud,high,80,Pre-clinical,Hematologic Malignancies,2027-03-20,1,Pre-clinical / IND stage,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Asmaa%20Hassan%20mohamed%20Abdel%20Mawjoud
+Medical College of Wisconsin,high,80,Pre-clinical,"Coronary Artery Disease, Peripheral Artery Disease, Heart Failure",2026-12,1,Pre-clinical / IND stage,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Medical%20College%20of%20Wisconsin
+CR DOUBLE CRANE,high,80,Pre-clinical,,20241126,1,Pre-clinical / IND stage,OpenFDA,
+HIKMA,high,80,Pre-clinical,,20251222,1,Pre-clinical / IND stage,OpenFDA,
+CHARTWELL RX,high,80,Pre-clinical,,20250122,2,Pre-clinical / IND stage,OpenFDA,
+LANNETT CO INC,high,80,Pre-clinical,,20230419,1,Pre-clinical / IND stage,OpenFDA,
+AUROBINDO PHARMA LTD,high,80,Pre-clinical,,20241126,1,Pre-clinical / IND stage,OpenFDA,
+BARR LABS INC,high,80,Pre-clinical,,20240215,1,Pre-clinical / IND stage,OpenFDA,
+TEVA PHARMS,high,70,Pre-clinical,,20240813,5,Pre-clinical / IND stage,OpenFDA + OpenFDA + OpenFDA + OpenFDA,
+SANDOZ,high,70,Pre-clinical,,20220405,1,Pre-clinical / IND stage,OpenFDA,
+JUBILANT CADISTA,high,70,Pre-clinical,,20221014,1,Pre-clinical / IND stage,OpenFDA,
+XIROMED,high,70,Pre-clinical,,20220429,1,Pre-clinical / IND stage,OpenFDA,
+ARTHUR GRP,high,70,Pre-clinical,,20220425,1,Pre-clinical / IND stage,OpenFDA,
+SOMERSET,high,70,Pre-clinical,,20221205,1,Pre-clinical / IND stage,OpenFDA,
+CHU de Quebec-Universite Laval,med,65,"PHASE1, PHASE2","Metastatic Cancer, Prostate Cancer, Cancer",2028-03,1,Started 2028 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=CHU%20de%20Quebec-Universite%20Laval
+German Cancer Research Center,med,65,PHASE1,Relapsed/Refractory Acute Myeloid Leukemia (AML),2028-01,1,Started 2028 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=German%20Cancer%20Research%20Center
+Kind Pharmaceuticals LLC,med,65,PHASE2,"Cancer-Related Anemia, Chemotherapy Induced Anemia",2027-12,2,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Kind%20Pharmaceuticals%20LLC
+"Nanolattix Biotechnology Co., Ltd.",med,65,PHASE1,Advanced Solid Tumor (Phase 1),2027-12-01,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Nanolattix%20Biotechnology%20Co.%2C%20Ltd.
+Centre Oscar Lambret,med,65,NA,"Tubo-ovarian Carcinoma, Primary Peritoneal Carcinoma Stage III, Symptomatologie Anxieuse",2027-09,2,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Centre%20Oscar%20Lambret
+Jonsson Comprehensive Cancer Center,med,65,"PHASE3, PHASE2","Glioblastoma, Lung Non-Squamous Non-Small Cell Carcinoma",2027-06-01,2,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Jonsson%20Comprehensive%20Cancer%20Center
+Smart Breast Corp.,med,65,NA,"Breast Neoplasm, Breast Cancer Detection, Molecular Imaging",2027-06,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Smart%20Breast%20Corp.
+Anne Louise Tølbøll Sørensen,med,65,PHASE4,"Multiple Myeloma, Waldenstrom Macroglobulinaemia",2027-03,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Anne%20Louise%20T%C3%B8lb%C3%B8ll%20S%C3%B8rensen
+NRG Oncology,med,65,PHASE3,"Clinical Stage II HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8, Clinical Stage III HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8, Clinical Stage I HPV-Mediated (p16-Positive) Oropharyngeal Carcinoma AJCC v8",2027-01-06,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=NRG%20Oncology
+VA Office of Research and Development,med,65,NA,High-Grade Early-Stage Bladder Cancer,2027-01-01,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=VA%20Office%20of%20Research%20and%20Development
+Crimson Biopharm Inc.,med,65,PHASE1,Glioblastoma,2027-01,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Crimson%20Biopharm%20Inc.
+NeuGATE Theranostics,med,65,"PHASE1, PHASE2",Glioblastoma Multiforme,2027-01-01,1,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=NeuGATE%20Theranostics
+Donghua Zhang,med,65,NA,CD7-Positive Hematological Malignancies,2026-12-31,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Donghua%20Zhang
+AHS Cancer Control Alberta,med,65,PHASE2,Advanced Differentiated Thyroid Gland Carcinoma,2026-12,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=AHS%20Cancer%20Control%20Alberta
+"Evergreen Therapeutics, Inc.",med,65,PHASE3,Advanced Endometrial Cancer,2026-12,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Evergreen%20Therapeutics%2C%20Inc.
+"3D Medicines (Beijing) Co., Ltd.",med,65,PHASE2,"Cholangiocarcinoma,Adult",2026-12,2,Started 2026 — very new entrant,ClinicalTrials.gov + ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=3D%20Medicines%20%28Beijing%29%20Co.%2C%20Ltd.
+European Organisation for Research and Treatment of Cancer - EORTC,med,65,"PHASE3, PHASE2",AML (Acute Myeloid Leukemia),2026-12-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=European%20Organisation%20for%20Research%20and%20Treatment%20of%20Cancer%20-%20EORTC
+"Shandong Suncadia Medicine Co., Ltd.",med,65,PHASE3,Locally Advanced or Metastatic Breast Cancer,2026-12,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Shandong%20Suncadia%20Medicine%20Co.%2C%20Ltd.
+St. Joseph's Healthcare Hamilton,med,65,"PHASE1, PHASE2",Non Small Cell Lung Cancer,2026-12-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=St.%20Joseph%27s%20Healthcare%20Hamilton
+Haoming (Carl) Qiu,med,65,PHASE1,Pancreatic Adenocarcinoma,2026-12-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Haoming%20%28Carl%29%20Qiu
+Kaiser Permanente,med,65,NA,"Cervical Cancer, Ovarian Cancer, Breast Cancer",2026-11-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Kaiser%20Permanente
+"Everfront Biotech Co., Ltd.",med,65,"PHASE3, PHASE2","Recurrent Glioblastoma, IDH-Wildtype",2026-11-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Everfront%20Biotech%20Co.%2C%20Ltd.
+"Sunshine Lake Pharma Co., Ltd.",med,65,PHASE1,"Advanced Solid Tumor, Esophageal Cancer",2026-10-30,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Sunshine%20Lake%20Pharma%20Co.%2C%20Ltd.
+Princess Maxima Center for Pediatric Oncology,med,65,"PHASE1, PHASE2","Lymphoblastic Lymphoma (Precursor B-Lymphoblastic Lymphoma/Leukaemia) Recurrent, Acute Lymphoblastic Leukemia, Lymphoblastic Lymphoma (Precursor B-Lymphoblastic Lymphoma/Leukaemia) Refractory",2026-10-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Princess%20Maxima%20Center%20for%20Pediatric%20Oncology
+NYU Langone Health,med,65,NA,"Sexual Dysfunction, Urinary Dysfunction",2026-10-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=NYU%20Langone%20Health
+Institut Jean-Godinot,med,65,PHASE2,Triple-negative Breast Cancer,2026-10-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Institut%20Jean-Godinot
+"Puma Biotechnology, Inc.",med,65,PHASE2,Small Cell Lung Cancer ( SCLC ),2026-09-30,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Puma%20Biotechnology%2C%20Inc.
+Adam Olson,med,65,PHASE2,"Sarcoma,Soft Tissue",2026-09-30,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Adam%20Olson
+Aram Hezel,med,65,PHASE1,Pancreatic Cancer,2026-09-01,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=Aram%20Hezel
+French Innovative Leukemia Organisation,med,65,PHASE2,Acute Myeloid Leukemia,2026-09,1,Started 2026 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=French%20Innovative%20Leukemia%20Organisation
+M.D. Anderson Cancer Center,med,55,"NA, PHASE1, PHASE2","Anaplastic Thyroid Cancer, Glioma, Prostate Carcinoma",2027-12-01,6,Started 2027 — very new entrant,ClinicalTrials.gov,https://clinicaltrials.gov/search?spons=M.D.%20Anderson%20Cancer%20Center
+FRESENIUS KABI USA,med,55,Pre-clinical,,20021220,1,Pre-clinical / IND stage,OpenFDA,
+P AND L,med,55,Pre-clinical,,20170414,1,Pre-clinical / IND stage,OpenFDA,
+RISING,med,55,Pre-clinical,,20121130,1,Pre-clinical / IND stage,OpenFDA,
+PHARMOBEDIENT,med,55,Pre-clinical,,20050404,1,Pre-clinical / IND stage,OpenFDA,
+WARNER CHILCOTT,med,55,Pre-clinical,,19971114,1,Pre-clinical / IND stage,OpenFDA,
+FOUGERA PHARMS,med,55,Pre-clinical,,20080902,2,Pre-clinical / IND stage,OpenFDA,
+MYLAN,med,55,Pre-clinical,,19840416,2,Pre-clinical / IND stage,OpenFDA,
+ACTAVIS ELIZABETH,med,55,Pre-clinical,,20120511,1,Pre-clinical / IND stage,OpenFDA,
+ALCON,med,55,Pre-clinical,,20021223,1,Pre-clinical / IND stage,OpenFDA,
+WATSON LABS,med,55,Pre-clinical,,,2,Pre-clinical / IND stage,OpenFDA,
+PARKE DAVIS,med,55,Pre-clinical,,19760824,1,Pre-clinical / IND stage,OpenFDA,
+MARSAM PHARMS LLC,med,55,Pre-clinical,,19921127,1,Pre-clinical / IND stage,OpenFDA,
+CAMALL,med,55,Pre-clinical,,19981103,1,Pre-clinical / IND stage,OpenFDA,
+VANGARD,med,55,Pre-clinical,,19830328,2,Pre-clinical / IND stage,OpenFDA,
+WEST WARD,med,55,Pre-clinical,,,1,Pre-clinical / IND stage,OpenFDA,
+QUANTUM PHARMICS,med,55,Pre-clinical,,,1,Pre-clinical / IND stage,OpenFDA,
+ABIC,med,55,Pre-clinical,,,1,Pre-clinical / IND stage,OpenFDA,
+ALVOGEN,med,55,Pre-clinical,,20180220,1,Pre-clinical / IND stage,OpenFDA,
+ABLE,med,55,Pre-clinical,,20031010,1,Pre-clinical / IND stage,OpenFDA,
+INVAGEN PHARMS,med,55,Pre-clinical,,20080227,1,Pre-clinical / IND stage,OpenFDA,
+LILLY,med,55,Pre-clinical,,,2,Pre-clinical / IND stage,OpenFDA,
+GLAXOSMITHKLINE,med,55,Pre-clinical,,19741015,1,Pre-clinical / IND stage,OpenFDA,
+HEATHER,med,55,Pre-clinical,,,1,Pre-clinical / IND stage,OpenFDA,
+SUN PHARM INDUSTRIES,med,55,Pre-clinical,,20020628,1,Pre-clinical / IND stage,OpenFDA,
+DAVA PHARMS INC,med,55,Pre-clinical,,19960306,1,Pre-clinical / IND stage,OpenFDA,
+ZYDUS PHARMS USA,med,55,Pre-clinical,,20190819,1,Pre-clinical / IND stage,OpenFDA,
+SAVAGE LABS,med,55,Pre-clinical,,19961101,1,Pre-clinical / IND stage,OpenFDA,

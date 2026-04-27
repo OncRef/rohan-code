@@ -1,0 +1,1103 @@
+[
+  {
+    "nct_id": "NCT06848465",
+    "condition": "Colorectal Cancer; Liver Metastasis; LDRT; Colorectal Neoplasms",
+    "interventions": [
+      "Low Dose Radiotherapy",
+      "Short course Radiotherapy",
+      "XELOX",
+      "Tislelizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-05-11"
+  },
+  {
+    "nct_id": "NCT06801665",
+    "condition": "Colon Cancer Liver Metastases",
+    "interventions": [
+      "FMT+QL1706+Bevacizumab+XELOX"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-01-02"
+  },
+  {
+    "nct_id": "NCT03702998",
+    "condition": "HIV Infections; Hepatitis B; Hepatitis C; Hepatocellular Carcinoma; HIV Infections; Hepatitis B; Hepatitis C; Carcinoma, Hepatocellular",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-08-30"
+  },
+  {
+    "nct_id": "NCT00826384",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "balloon catheter"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2016-04-01"
+  },
+  {
+    "nct_id": "NCT02173119",
+    "condition": "Hepatocellular Carcinoma (HCC); Carcinoma, Hepatocellular; Carcinoma",
+    "interventions": [
+      "MRI post-TACE"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-06-10"
+  },
+  {
+    "nct_id": "NCT05223816",
+    "condition": "Hepatocellular Carcinoma; Intrahepatic Cholangiocarcinoma; Carcinoma, Hepatocellular; Cholangiocarcinoma",
+    "interventions": [
+      "VG161",
+      "Nivolumab Injection [Opdivo]"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-08-09"
+  },
+  {
+    "nct_id": "NCT04888806",
+    "condition": "Colorectal Cancer Metastatic; Liver Metastases; Lung Metastases",
+    "interventions": [
+      "Camrelizumab",
+      "ablation",
+      "chemotherapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-05-17"
+  },
+  {
+    "nct_id": "NCT01841632",
+    "condition": "Liver Transplantation",
+    "interventions": [
+      "MultiStem"
+    ],
+    "metrics": {
+      "MultiStem - Cohort 1": {
+        "ae": {
+          "serious_ae_pct": 100.0,
+          "overall_ae_pct": 100.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2018-08-17",
+    "ctgov_results_last_updated": "2018-08-17"
+  },
+  {
+    "nct_id": "NCT05152498",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Fu Zheng Jie Du Hua Yu therapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-12-09"
+  },
+  {
+    "nct_id": "NCT02240784",
+    "condition": "Acute Hepatic Porphyria; Coproporphyria, Hereditary; Porphyrias; Coproporphyria",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-05-17"
+  },
+  {
+    "nct_id": "NCT00002608",
+    "condition": "Adrenocortical Carcinoma; Brain and Central Nervous System Tumors; Head and Neck Cancer; Liver Cancer; Malignant Mesothelioma; Pheochromocytoma; Sarcoma; Adrenocortical Carcinoma; Central Nervous System Neoplasms; Head and Neck Neoplasms; Liver Neoplasms; Mesothelioma, Malignant; Pheochromocytoma; Sarcoma; Carcinoma, Hepatocellular; Brain Neoplasms; Thyroid Cancer, Papillary; Adenocarcinoma, Follicular; Carcinoma, Medullary; Thyroid Carcinoma, Anaplastic; Thyroid Neoplasms; Medulloblastoma; Glioblastoma; Astrocytoma; Oligodendroglioma; Ependymoma; Glioma; Glioma, Subependymal; Optic Nerve Glioma; Familial ependymoma; Gliosarcoma",
+    "interventions": [
+      "cisplatin",
+      "doxorubicin hydrochloride",
+      "tamoxifen citrate",
+      "conventional surgery",
+      "radiation therapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-07-10"
+  },
+  {
+    "nct_id": "NCT00320606",
+    "condition": "Liver Transplant; Liver Transplantation",
+    "interventions": [
+      "Immunosuppression Withdrawal"
+    ],
+    "metrics": {
+      "Immunosuppression Withdrawal Arm": {
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2011-07-06",
+    "ctgov_results_last_updated": "2018-09-20"
+  },
+  {
+    "nct_id": "NCT06805552",
+    "condition": "HCC - Hepatocellular Carcinoma; Carcinoma, Hepatocellular; Sarcopenia",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-02-03"
+  },
+  {
+    "nct_id": "NCT05428735",
+    "condition": "Colorectal Cancer Liver Metastases (CRLM); Small Future Liver Remnant (FLR)",
+    "interventions": [
+      "Embolization"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-11-01"
+  },
+  {
+    "nct_id": "NCT06140134",
+    "condition": "Intrahepatic Cholangiocarcinoma; Cholangiocarcinoma, Intrahepatic; Cholangiocarcinoma",
+    "interventions": [
+      "Liver Transplant"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-20"
+  },
+  {
+    "nct_id": "NCT02256514",
+    "condition": "HCC; Liver Cirrhosis; Liver Cirrhosis",
+    "interventions": [
+      "Daily oral dose of hepcortespenlisimut-L"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-08-30"
+  },
+  {
+    "nct_id": "NCT05687747",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Radiolabelled tracer, 68Gallium-FAPI-46 PET/MRI"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-04-04"
+  },
+  {
+    "nct_id": "NCT02519348",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Tremelimumab",
+      "Durvalumab",
+      "Bevacizumab"
+    ],
+    "metrics": {
+      "China Cohort: Durvalumab 20 mg/kg": {
+        "os": {
+          "median": 30.69,
+          "ci": [
+            13.96,
+            null
+          ],
+          "n": 3,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "China Cohort: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg": {
+        "os": {
+          "median": 6.28,
+          "ci": [
+            0.66,
+            23.82
+          ],
+          "n": 6,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "China Cohort: Tremelimumab 10 mg/kg": {
+        "os": {
+          "median": 3.52,
+          "ci": [
+            2.2,
+            20.96
+          ],
+          "n": 5,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "Part 1: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg": {
+        "os": {
+          "median": 12.58,
+          "ci": [
+            6.87,
+            20.99
+          ],
+          "n": 40,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "Part 4: Durvalumab 1120 mg + Bevacizumab 15 mg/kg": {
+        "os": {
+          "median": null,
+          "ci": [
+            12.52,
+            null
+          ],
+          "n": 47,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 21.3,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Durvalumab 1500 mg": {
+        "os": {
+          "median": 12.91,
+          "ci": [
+            8.74,
+            16.79
+          ],
+          "n": 104,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 11.5,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Tremelimumab 300 mg + Durvalumab 1500 mg": {
+        "os": {
+          "median": 17.05,
+          "ci": [
+            10.55,
+            22.83
+          ],
+          "n": 75,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 24.0,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Tremelimumab 75 mg + Durvalumab 1500 mg": {
+        "os": {
+          "median": 11.3,
+          "ci": [
+            8.38,
+            14.95
+          ],
+          "n": 84,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 9.5,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Tremelimumab 750 mg": {
+        "os": {
+          "median": 17.05,
+          "ci": [
+            11.33,
+            20.24
+          ],
+          "n": 69,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 7.2,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2021-12-06",
+    "ctgov_results_last_updated": "2026-02-17"
+  },
+  {
+    "nct_id": "NCT05362825",
+    "condition": "Liver Metastasis Colon Cancer; Synchronous Neoplasm; Neoplasms, Multiple Primary",
+    "interventions": [
+      "Neo-adjuvant Chemotherapy FOLFOXIRI Regimen",
+      "synchronous resection surgery"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-05-11"
+  },
+  {
+    "nct_id": "NCT05761717",
+    "condition": "Posto Perative Hepatocellular Carcinoma",
+    "interventions": [
+      "Neoantigen mRNA Personalised Cancer vaccine in combination with Stintilimab I njection"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-03-09"
+  },
+  {
+    "nct_id": "NCT05432492",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "AK112"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-04"
+  },
+  {
+    "nct_id": "NCT02013492",
+    "condition": "Male Breast Cancer; Recurrent Melanoma; Stage IV Breast Cancer; Stage IV Melanoma; Stage IV Ovarian Epithelial Cancer; Stage IV Ovarian Germ Cell Tumor; Unspecified Adult Solid Tumor, Protocol Specific; Hepatocellular Carcinoma; Breast Neoplasms, Male; Melanoma; Breast Neoplasms; Carcinoma, Ovarian Epithelial; Carcinoma, Hepatocellular",
+    "interventions": [
+      "propranolol hydrochloride",
+      "Correlative Studies"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-12-06"
+  },
+  {
+    "nct_id": "NCT01992809",
+    "condition": "Fatty Liver; Fatty Liver; Non-alcoholic Fatty Liver Disease",
+    "interventions": [
+      "Omega 3"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-11-25"
+  },
+  {
+    "nct_id": "NCT03184493",
+    "condition": "Liver Cancer; Liver Neoplasms",
+    "interventions": [
+      "Celebrex plus Metformin",
+      "Celebrex",
+      "Metformin"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-05-31"
+  },
+  {
+    "nct_id": "NCT06072521",
+    "condition": "Hepatic Encephalopathy; Hepatic Encephalopathy",
+    "interventions": [
+      "Lactoferrin Bovine"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-10-17"
+  },
+  {
+    "nct_id": "NCT05003700",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Hepatic arterial infusion chemotherapy",
+      "Lenvatinib",
+      "Camrelizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-11-05"
+  },
+  {
+    "nct_id": "NCT07223307",
+    "condition": "Liver Cancer; Intrahepatic Cholangiocarcinoma; Liver Metastases; HCC; Liver Neoplasms; Cholangiocarcinoma",
+    "interventions": [
+      "MRI-guided adaptive stereotactic ablative body radiotherapy (SABR)"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-02-09"
+  },
+  {
+    "nct_id": "NCT07362264",
+    "condition": "Liver Cancer; Liver Neoplasms",
+    "interventions": [
+      "SH006"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-01-23"
+  },
+  {
+    "nct_id": "NCT00040898",
+    "condition": "Liver Cancer; Liver Neoplasms; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Sho-saiko-to"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-01-18"
+  },
+  {
+    "nct_id": "NCT05322187",
+    "condition": "Transitional Cell Tumor; Hepatoblastoma; Liver Cancer; Pediatric Solid Tumor; Pediatric Cancer; Hepatoblastoma; Liver Neoplasms; Neoplasms",
+    "interventions": [
+      "PD-1 inhibitor"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-04-11"
+  },
+  {
+    "nct_id": "NCT05833126",
+    "condition": "Recurrent Liver Cancer After Liver Transplantation",
+    "interventions": [
+      "Hepatic arterial infusion chemotherapy + Atezolizumab and bevacizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-12-15"
+  },
+  {
+    "nct_id": "NCT03401814",
+    "condition": "Liver Metastases",
+    "interventions": [
+      "Magnetic Resonance Elastography"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-07-09"
+  },
+  {
+    "nct_id": "NCT00183885",
+    "condition": "Hepatocellular Carcinoma; Liver Cancer; Carcinoma, Hepatocellular; Liver Neoplasms",
+    "interventions": [
+      "mitomycin-c, cisplatin"
+    ],
+    "metrics": {
+      "Cisplatin + Mitomycin-C": {
+        "ae": {
+          "serious_ae_pct": 67.10526315789474,
+          "overall_ae_pct": 98.68421052631578
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2025-10-30",
+    "ctgov_results_last_updated": "2025-10-30"
+  },
+  {
+    "nct_id": "NCT01641276",
+    "condition": "Hepatitis; Hepatocellular Carcinomas; Hepatitis; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Low intensity amplitude-moduled electromagnetic fields"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2015-09-14"
+  },
+  {
+    "nct_id": "NCT06954116",
+    "condition": "Resectable Hepatocellular Carcinoma With High Risk of Recurrence; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Iparomlimab and Tuvonralimab (QL1706)",
+      "Partial hepatectomy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-06-13"
+  },
+  {
+    "nct_id": "NCT05103904",
+    "condition": "Recurrent Hepatocellular Carcinoma; Stage III Hepatocellular Carcinoma AJCC V8; Stage IIIA Hepatocellular Carcinoma AJCC V8; Stage IIIB Hepatocellular Carcinoma AJCC V8; Stage IV Hepatocellular Carcinoma AJCC V8; Stage IVA Hepatocellular Carcinoma AJCC V8; Stage IVB Hepatocellular Carcinoma AJCC V8; Unresectable Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Laboratory Biomarker Analysis",
+      "Lenvatinib"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-12-27"
+  },
+  {
+    "nct_id": "NCT01015833",
+    "condition": "Advanced Adult Hepatocellular Carcinoma; Recurrent Hepatocellular Carcinoma; Stage III Hepatocellular Carcinoma AJCC v7; Stage IIIA Hepatocellular Carcinoma AJCC v7; Stage IIIB Hepatocellular Carcinoma AJCC v7; Stage IIIC Hepatocellular Carcinoma AJCC v7; Stage IV Hepatocellular Carcinoma AJCC v7; Stage IVA Hepatocellular Carcinoma AJCC v7; Stage IVB Hepatocellular Carcinoma AJCC v7; Unresectable Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Doxorubicin Hydrochloride",
+      "Laboratory Biomarker Analysis",
+      "Pharmacogenomic Study",
+      "Sorafenib Tosylate"
+    ],
+    "metrics": {
+      "Arm I (Doxorubicin Hydrochloride, Sorafenib Tosylate)": {
+        "os": {
+          "median": 8.9,
+          "ci": [
+            7.1,
+            10.8
+          ],
+          "n": 180,
+          "unit": "month"
+        },
+        "orr": {
+          "orr_pct": 7.3,
+          "unit": "percentage of patients"
+        },
+        "ae": {}
+      },
+      "Arm II (Sorafenib Tosylate)": {
+        "os": {
+          "median": 10.5,
+          "ci": [
+            7.6,
+            13.8
+          ],
+          "n": 176,
+          "unit": "month"
+        },
+        "orr": {
+          "orr_pct": 3.3,
+          "unit": "percentage of patients"
+        },
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2018-05-02",
+    "ctgov_results_last_updated": "2022-08-04"
+  },
+  {
+    "nct_id": "NCT05840133",
+    "condition": "HCC",
+    "interventions": [
+      "No intervention was required for patients or control group in this study"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-05-03"
+  },
+  {
+    "nct_id": "NCT06822985",
+    "condition": "HCC - Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "QL1706"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-02-12"
+  },
+  {
+    "nct_id": "NCT03793725",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "SHR1210",
+      "Apatinib"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-01-04"
+  },
+  {
+    "nct_id": "NCT02722616",
+    "condition": "Pancreatic Cancer; Liver Cancer; Pancreatic Neoplasms; Liver Neoplasms",
+    "interventions": [
+      "Ultrasound scan of the pancreas",
+      "Ultrasound scan of the Liver",
+      "Reference ultrasound"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": "2024-01-18",
+    "ctgov_results_last_updated": "2024-01-18"
+  },
+  {
+    "nct_id": "NCT06294548",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Valemetostat",
+      "Atezolizumab",
+      "Bevacizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-08-11"
+  },
+  {
+    "nct_id": "NCT07063940",
+    "condition": "Liver Transplant Surgery; Liver Diseases; Motor Activity",
+    "interventions": [
+      "Home-based exercise and theory-based motivation support programme",
+      "Patient exercise advice leaflet before and after LT."
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-07-14"
+  },
+  {
+    "nct_id": "NCT02304289",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Artesunate"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-10-27"
+  },
+  {
+    "nct_id": "NCT02825550",
+    "condition": "Cancer of Liver; Liver Neoplasms; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Taiwan ACE Beads"
+    ],
+    "metrics": {
+      "Adverse Event": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 0.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2018-08-07",
+    "ctgov_results_last_updated": "2018-08-07"
+  },
+  {
+    "nct_id": "NCT02157974",
+    "condition": "Hepatic Steatosis; Polycystic Ovarian Syndrome; Obesity; Fatty Liver; Polycystic Ovary Syndrome; Obesity",
+    "interventions": [
+      "Byetta 5Mcg Pen Injection"
+    ],
+    "metrics": {
+      "Control": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 0.0
+        }
+      },
+      "PCOS Medication Naive": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 0.0
+        }
+      },
+      "PCOS on COCPs": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 0.0
+        }
+      },
+      "PCOS on Metformin": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 0.0
+        }
+      },
+      "PCOS, Medication Naive + Byetta": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 0.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2024-06-04",
+    "ctgov_results_last_updated": "2024-06-04"
+  },
+  {
+    "nct_id": "NCT01882218",
+    "condition": "Hepatic Cancer; Liver Neoplasms",
+    "interventions": [
+      "Galactose",
+      "Standard Treatment"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2017-05-05"
+  },
+  {
+    "nct_id": "NCT05582018",
+    "condition": "Hepatocellular Carcinoma; Metastatic Liver Cancer; Carcinoma, Hepatocellular; Liver Neoplasms",
+    "interventions": [
+      "BioTraceIO 360"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-09-15"
+  },
+  {
+    "nct_id": "NCT01882946",
+    "condition": "Locally Advanced Tumor; Metastatic Solid Tissue Tumors; Liver Cancer; Colorectal Cancer; Pancreatic Cancer; Melanoma; Liver Neoplasms; Colorectal Neoplasms; Pancreatic Neoplasms; Melanoma",
+    "interventions": [
+      "DCVax-Direct"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2015-10-07"
+  },
+  {
+    "nct_id": "NCT05462470",
+    "condition": "Colorectal Cancer; Liver Metastases; Colorectal Neoplasms",
+    "interventions": [
+      "Repeat Liver Surgery",
+      "Non-Repeat Liver Surgery"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-07-19"
+  },
+  {
+    "nct_id": "NCT02007954",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "DEBDOX"
+    ],
+    "metrics": {
+      "DEBDOX": {
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2017-08-11",
+    "ctgov_results_last_updated": "2017-08-11"
+  },
+  {
+    "nct_id": "NCT05970666",
+    "condition": "Adebrelimab; Hepatocellular Carcinoma; Transformation; Bevacizumab; TACE; Carcinoma, Hepatocellular",
+    "interventions": [
+      "TACE with adebrelimab and bevacizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-02-28"
+  },
+  {
+    "nct_id": "NCT06524466",
+    "condition": "Resectable Hepatocellular Carcinoma; Macrovascular Invasion; CNLC IIIA Stage",
+    "interventions": [
+      "Neoadjuvant SBRT combined with Lenvatinib and Pucotenlimab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-07-29"
+  },
+  {
+    "nct_id": "NCT07224724",
+    "condition": "Colorectal Cancer Liver Metastases (CRLM); Metastatic Colorectal Carcinoma (mCRC); Colorectal Neoplasms",
+    "interventions": [
+      "EXELION"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-01-28"
+  },
+  {
+    "nct_id": "NCT05180162",
+    "condition": "Liver Fibrosis; Pulmonary Fibrosis; Myocardial Fibrosis; Liver Cirrhosis; Pulmonary Fibrosis",
+    "interventions": [
+      "68Ga-FAP-2286",
+      "Positron Emission Tomography (PET)"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-03-21"
+  },
+  {
+    "nct_id": "NCT02878473",
+    "condition": "Intrahepatic Cholangiocarcinoma; Cholangiocarcinoma",
+    "interventions": [
+      "Deceased donor Liver Transplantation"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-12-13"
+  },
+  {
+    "nct_id": "NCT06486454",
+    "condition": "Liver Neoplasms; Primary Liver Cancer; Secondary Liver Cancer; Tumor Liver; Benign Liver Tumor; Liver Neoplasms; Carcinoma, Hepatocellular",
+    "interventions": [
+      "HistoSonics Edison System"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-09"
+  },
+  {
+    "nct_id": "NCT05864105",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "PM8002",
+      "FOLFOX regimen"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-03-12"
+  },
+  {
+    "nct_id": "NCT04270851",
+    "condition": "Cancer; Cancer Metastatic; Colorectal Cancer; Liver Metastasis Colon Cancer; Neoplasms; Neoplasm Metastasis; Colorectal Neoplasms",
+    "interventions": [
+      "LiMAx test",
+      "HepaT1ca magnetic resonance scan"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2020-02-17"
+  },
+  {
+    "nct_id": "NCT02580253",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Individualized Chemotherapy",
+      "mFOLFOX6"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2020-02-17"
+  },
+  {
+    "nct_id": "NCT02053324",
+    "condition": "Liver Metastases",
+    "interventions": [
+      "AvidinOX/ST2210"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-07-05"
+  },
+  {
+    "nct_id": "NCT06408623",
+    "condition": "Liver Cancer; Liver Neoplasms",
+    "interventions": [
+      "chidamide combined with Sintilimab and bevacizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-05-10"
+  },
+  {
+    "nct_id": "NCT06053996",
+    "condition": "Colon Cancer; Liver Metastasis Colon Cancer; Rectal Cancer; Colonic Neoplasms; Rectal Neoplasms",
+    "interventions": [
+      "Hepatopulmonary radio-sterilization"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-09-26"
+  },
+  {
+    "nct_id": "NCT05449873",
+    "condition": "Recurrent Hepatocellular Cancer; Chronic Liver Disease and Cirrhosis; Liver Neoplasms; Fibrosis",
+    "interventions": [
+      "Radiofrequency ablation using combined bipolar and monopolar energy deliver with Triple Cooled-Wet electrodes"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-10-13"
+  },
+  {
+    "nct_id": "NCT03396705",
+    "condition": "Liver Diseases; Liver Cancer; Liver Diseases; Liver Neoplasms",
+    "interventions": [
+      "Liver Biopsy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-04-07"
+  },
+  {
+    "nct_id": "NCT02973685",
+    "condition": "HepatoCellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Hepatic arterial infusion chemotherapy",
+      "Transarterial chemoembolization",
+      "Folfox Protocol",
+      "TACE Drug Protocol"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-06-12"
+  },
+  {
+    "nct_id": "NCT03437876",
+    "condition": "Cirrhosis, Liver; Liver Cirrhosis",
+    "interventions": [
+      "intestinal microbiota transplant"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2018-02-19"
+  },
+  {
+    "nct_id": "NCT01600196",
+    "condition": "Hepatocellular Carcinoma With Portal Vein Tumor Thrombus; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Liver resection plus Thrombectomy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-01-23"
+  },
+  {
+    "nct_id": "NCT07446946",
+    "condition": "Pancreatic Cancer With Liver Metastases; Pancreatic Neoplasms",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-03"
+  },
+  {
+    "nct_id": "NCT01511146",
+    "condition": "Liver Metastasis",
+    "interventions": [
+      "Oxaliplatin",
+      "Mitomycin + Gemcitabine"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2012-01-19"
+  },
+  {
+    "nct_id": "NCT07070518",
+    "condition": "Solid Tumor Cancer; Adult Refractory Cancer; Endometrial Carcinoma (EC); Squamous Head and Neck Carcinoma; pMMR/MSS Adenocarcinoma of the Colon or Rectum; Non-Small Cell Lung Cancer; Melanoma; HCC - Hepatocellular Carcinoma; Small Cell Lung Cancer; Neoplasms; Endometrial Neoplasms; Carcinoma, Non-Small-Cell Lung; Melanoma; Carcinoma, Hepatocellular; Small Cell Lung Carcinoma",
+    "interventions": [
+      "GV20-0251"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-12-03"
+  },
+  {
+    "nct_id": "NCT02471313",
+    "condition": "Liver Cancer; Liver Neoplasm; Hepatocellular Carcinoma; HCC; Liver Neoplasms; Carcinoma, Hepatocellular",
+    "interventions": [
+      "[18F] FMISO"
+    ],
+    "metrics": {
+      "[18F] FMISO PET Scan": {
+        "ae": {
+          "serious_ae_pct": 0.0,
+          "overall_ae_pct": 33.33333333333333
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2019-04-23",
+    "ctgov_results_last_updated": "2019-04-23"
+  },
+  {
+    "nct_id": "NCT06400160",
+    "condition": "NSCLC; Prostate Cancer; Colorectal Cancer; Hepatocellular Carcinoma; Prostatic Neoplasms; Colorectal Neoplasms; Carcinoma, Hepatocellular",
+    "interventions": [
+      "TB511",
+      "Keytruda"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-11-25"
+  },
+  {
+    "nct_id": "NCT00030082",
+    "condition": "Liver Cancer; Metastatic Cancer; Liver Neoplasms; Neoplasm Metastasis; Carcinoma, Hepatocellular",
+    "interventions": [
+      "isolated perfusion",
+      "melphalan"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2015-04-30"
+  },
+  {
+    "nct_id": "NCT00629759",
+    "condition": "Neoplasms, Liver; Liver Neoplasms; Carcinoma, Hepatocellular; Vaccinia",
+    "interventions": [
+      "JX-594: Recombinant vaccinia virus (TK-deletion plus GM-CSF)"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-01-04"
+  },
+  {
+    "nct_id": "NCT00003296",
+    "condition": "Extrahepatic Bile Duct Cancer; Gallbladder Cancer; Liver Cancer; Bile Duct Neoplasms; Gallbladder Neoplasms; Liver Neoplasms; Carcinoma, Hepatocellular",
+    "interventions": [
+      "filgrastim",
+      "pegylated liposomal doxorubicin hydrochloride"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-12-19"
+  },
+  {
+    "nct_id": "NCT05429866",
+    "condition": "Breast Cancer; Melanoma; Non Small Cell Lung Cancer; Non-melanoma Skin Cancer; Gastrointestinal Cancer; Head and Neck Cancer; Renal Cell Carcinoma; Small Cell Lung Cancer; Mesothelioma, Malignant; Bladder Cancer; Merkel Cell Carcinoma; Hepatocellular Carcinoma; MSI-H Colorectal Cancer; Breast Neoplasms; Melanoma; Carcinoma, Non-Small-Cell Lung; Gastrointestinal Neoplasms; Head and Neck Neoplasms; Carcinoma, Renal Cell; Small Cell Lung Carcinoma; Mesothelioma, Malignant; Urinary Bladder Neoplasms; Carcinoma, Merkel Cell; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Checkpoint Blockade, Immune"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-03-08"
+  },
+  {
+    "nct_id": "NCT00605722",
+    "condition": "Liver Cancer; Liver Neoplasms",
+    "interventions": [
+      "bevacizumab (Avastin)",
+      "erlotinib (Tarceva)"
+    ],
+    "metrics": {
+      "Bevacizumab + Erlotinib": {
+        "os": {
+          "median": 10.7,
+          "ci": [
+            7.4,
+            null
+          ],
+          "n": 51,
+          "unit": "months"
+        },
+        "pfs": {
+          "median": 35.3,
+          "ci": [
+            22.4,
+            49.9
+          ],
+          "n": 51,
+          "unit": "percentage of participants"
+        },
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "percentage of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 19.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2014-07-14",
+    "ctgov_results_last_updated": "2014-07-14"
+  },
+  {
+    "nct_id": "NCT03026803",
+    "condition": "Liver Cancer; Hepatocellular Cancer; Liver Neoplasms",
+    "interventions": [
+      "Oxaliplatin",
+      "Capecitabine"
+    ],
+    "metrics": {
+      "Oxaliplatin and Capecitabine": {
+        "ae": {
+          "serious_ae_pct": 25.0,
+          "overall_ae_pct": 50.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2017-03-10",
+    "ctgov_results_last_updated": "2017-04-13"
+  },
+  {
+    "nct_id": "NCT03511703",
+    "condition": "Hepatocellular Carcinoma; Carcinoma, Hepatocellular",
+    "interventions": [
+      "Apatinib",
+      "Chemotherapy drugs+Iodized oil"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2018-04-30"
+  }
+]

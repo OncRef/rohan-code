@@ -1,0 +1,1138 @@
+[
+  {
+    "nct_id": "NCT05133128",
+    "condition": "Neoplasms",
+    "interventions": [
+      "blood samples"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-02-22"
+  },
+  {
+    "nct_id": "NCT06848465",
+    "condition": "Colorectal Neoplasms",
+    "interventions": [
+      "Low Dose Radiotherapy",
+      "Short course Radiotherapy",
+      "XELOX",
+      "Tislelizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-05-11"
+  },
+  {
+    "nct_id": "NCT06801665",
+    "condition": null,
+    "interventions": [
+      "FMT+QL1706+Bevacizumab+XELOX"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-01-02"
+  },
+  {
+    "nct_id": "NCT00493467",
+    "condition": "Lymphoma",
+    "interventions": [
+      "Ibritumomab Tiuxetan (Zevalin)",
+      "Rituximab"
+    ],
+    "metrics": {
+      "Zevalin": {
+        "orr": {
+          "orr_pct": 67.7,
+          "unit": "Percentage of Participants"
+        },
+        "ae": {
+          "serious_ae_pct": 3.225806451612903,
+          "overall_ae_pct": 93.54838709677419
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2020-09-01",
+    "ctgov_results_last_updated": "2022-09-15"
+  },
+  {
+    "nct_id": "NCT06329700",
+    "condition": "Colorectal Neoplasms",
+    "interventions": [
+      "Hepatectomy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-03-26"
+  },
+  {
+    "nct_id": "NCT02789800",
+    "condition": "Hypertension",
+    "interventions": [
+      "DIMAC02"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-11-03"
+  },
+  {
+    "nct_id": "NCT02592707",
+    "condition": "Neuroendocrine Tumors",
+    "interventions": [
+      "Satoreotide tetraxetan",
+      "Amino acid solution",
+      "Antiemetic"
+    ],
+    "metrics": {
+      "All Participants": {
+        "orr": {
+          "orr_pct": 32.5,
+          "unit": "percentage of participants"
+        },
+        "ae": {}
+      },
+      "Part A: 177Lu-IPN01072 4.5 GBq": {
+        "orr": {
+          "orr_pct": 40.0,
+          "unit": "percentage of participants"
+        },
+        "ae": {}
+      },
+      "Part B Cohort 1: 177Lu-IPN01072 6 GBq": {
+        "orr": {
+          "orr_pct": 16.7,
+          "unit": "percentage of participants"
+        },
+        "ae": {}
+      },
+      "Part B Cohort 3: 177Lu-IPN01072 4.5 GBq": {
+        "orr": {
+          "orr_pct": 22.2,
+          "unit": "percentage of participants"
+        },
+        "ae": {}
+      },
+      "Part B Cohort 6: 177Lu-IPN01072 4.5 GBq": {
+        "orr": {
+          "orr_pct": 40.0,
+          "unit": "percentage of participants"
+        },
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2023-07-19",
+    "ctgov_results_last_updated": "2023-07-19"
+  },
+  {
+    "nct_id": "NCT00001244",
+    "condition": "Blau syndrome",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-20"
+  },
+  {
+    "nct_id": "NCT04013334",
+    "condition": "Mesothelioma, Malignant",
+    "interventions": [
+      "MTG201",
+      "Nivolumab Injection [Opdivo]"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-06-16"
+  },
+  {
+    "nct_id": "NCT01145209",
+    "condition": "Leukemia, Lymphocytic, Chronic, B-Cell",
+    "interventions": [
+      "Fludarabine Phosphate",
+      "Ofatumumab",
+      "Cyclophosphamide"
+    ],
+    "metrics": {
+      "FCO Arm": {
+        "os": {
+          "median": 10.0,
+          "ci": [
+            null,
+            null
+          ],
+          "n": 10,
+          "unit": "Participants"
+        },
+        "orr": {
+          "orr_pct": 6.0,
+          "unit": "Participants"
+        }
+      },
+      "FO + FCO Arms": {
+        "ae": {}
+      },
+      "FO Arm": {
+        "os": {
+          "median": 18.0,
+          "ci": [
+            null,
+            null
+          ],
+          "n": 18,
+          "unit": "Participants"
+        },
+        "orr": {
+          "orr_pct": 2.0,
+          "unit": "Participants"
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2019-09-17",
+    "ctgov_results_last_updated": "2023-11-28"
+  },
+  {
+    "nct_id": "NCT03702998",
+    "condition": "HIV Infections",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-08-30"
+  },
+  {
+    "nct_id": "NCT03170414",
+    "condition": null,
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-02-12"
+  },
+  {
+    "nct_id": "NCT00826384",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "balloon catheter"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2016-04-01"
+  },
+  {
+    "nct_id": "NCT02173119",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "MRI post-TACE"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-06-10"
+  },
+  {
+    "nct_id": "NCT00420199",
+    "condition": null,
+    "interventions": [
+      "Abatacept",
+      "Placebo"
+    ],
+    "metrics": {
+      "Abatacept + Methotrexate": {
+        "ae": {
+          "discontinuation_ae_pct": 0.0
+        }
+      },
+      "Placebo + Methotrexate": {
+        "ae": {
+          "discontinuation_ae_pct": 0.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2011-05-17",
+    "ctgov_results_last_updated": "2012-01-18"
+  },
+  {
+    "nct_id": "NCT06949098",
+    "condition": "Rectal Neoplasms",
+    "interventions": [
+      "Local Tumor Resection",
+      "Radiotherapy",
+      "Chemotherapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-05-29"
+  },
+  {
+    "nct_id": "NCT05223816",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "VG161",
+      "Nivolumab Injection [Opdivo]"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-08-09"
+  },
+  {
+    "nct_id": "NCT04888806",
+    "condition": null,
+    "interventions": [
+      "Camrelizumab",
+      "ablation",
+      "chemotherapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-05-17"
+  },
+  {
+    "nct_id": "NCT04862533",
+    "condition": "Prostatic Neoplasms",
+    "interventions": [
+      "Beta-Alanine",
+      "Placebo",
+      "Pelvic floor muscle training (PFMT)"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-12-16"
+  },
+  {
+    "nct_id": "NCT01762852",
+    "condition": "Glomerulonephritis, Membranous",
+    "interventions": [
+      "Belimumab 10 mg",
+      "Placebo"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2017-03-22"
+  },
+  {
+    "nct_id": "NCT01841632",
+    "condition": null,
+    "interventions": [
+      "MultiStem"
+    ],
+    "metrics": {
+      "MultiStem - Cohort 1": {
+        "ae": {
+          "serious_ae_pct": 100.0,
+          "overall_ae_pct": 100.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2018-08-17",
+    "ctgov_results_last_updated": "2018-08-17"
+  },
+  {
+    "nct_id": "NCT05152498",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "Fu Zheng Jie Du Hua Yu therapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-12-09"
+  },
+  {
+    "nct_id": "NCT02240784",
+    "condition": "Coproporphyria, Hereditary",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-05-17"
+  },
+  {
+    "nct_id": "NCT04384926",
+    "condition": "COVID-19",
+    "interventions": [
+      "Elective Cancer Surgery"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2020-05-12"
+  },
+  {
+    "nct_id": "NCT00002608",
+    "condition": "Adrenocortical Carcinoma",
+    "interventions": [
+      "cisplatin",
+      "doxorubicin hydrochloride",
+      "tamoxifen citrate",
+      "conventional surgery",
+      "radiation therapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-07-10"
+  },
+  {
+    "nct_id": "NCT07326150",
+    "condition": "Pancreatic Neoplasms",
+    "interventions": [
+      "Sample Collection"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-01-08"
+  },
+  {
+    "nct_id": "NCT00320606",
+    "condition": null,
+    "interventions": [
+      "Immunosuppression Withdrawal"
+    ],
+    "metrics": {
+      "Immunosuppression Withdrawal Arm": {
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2011-07-06",
+    "ctgov_results_last_updated": "2018-09-20"
+  },
+  {
+    "nct_id": "NCT01078233",
+    "condition": null,
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": "2015-09-17",
+    "ctgov_results_last_updated": "2019-11-25"
+  },
+  {
+    "nct_id": "NCT06805552",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-02-03"
+  },
+  {
+    "nct_id": "NCT03225755",
+    "condition": "Dwarfism, Pituitary",
+    "interventions": [
+      "Growth hormone"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-05-13"
+  },
+  {
+    "nct_id": "NCT05428735",
+    "condition": null,
+    "interventions": [
+      "Embolization"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-11-01"
+  },
+  {
+    "nct_id": "NCT06140134",
+    "condition": "Cholangiocarcinoma",
+    "interventions": [
+      "Liver Transplant"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-20"
+  },
+  {
+    "nct_id": "NCT02256514",
+    "condition": "Liver Cirrhosis",
+    "interventions": [
+      "Daily oral dose of hepcortespenlisimut-L"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-08-30"
+  },
+  {
+    "nct_id": "NCT05687747",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "Radiolabelled tracer, 68Gallium-FAPI-46 PET/MRI"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-04-04"
+  },
+  {
+    "nct_id": "NCT00837148",
+    "condition": "Sarcoma",
+    "interventions": [
+      "Sorafenib and Dacarbazine"
+    ],
+    "metrics": {
+      "Soft Tissue Sarcoma Patients": {
+        "orr": {
+          "orr_pct": 5.0,
+          "unit": "participants"
+        },
+        "ae": {
+          "serious_ae_pct": 21.62162162162162,
+          "overall_ae_pct": 81.08108108108108
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2015-11-20",
+    "ctgov_results_last_updated": "2015-11-20"
+  },
+  {
+    "nct_id": "NCT02519348",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "Tremelimumab",
+      "Durvalumab",
+      "Bevacizumab"
+    ],
+    "metrics": {
+      "China Cohort: Durvalumab 20 mg/kg": {
+        "os": {
+          "median": 30.69,
+          "ci": [
+            13.96,
+            null
+          ],
+          "n": 3,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "China Cohort: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg": {
+        "os": {
+          "median": 6.28,
+          "ci": [
+            0.66,
+            23.82
+          ],
+          "n": 6,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "China Cohort: Tremelimumab 10 mg/kg": {
+        "os": {
+          "median": 3.52,
+          "ci": [
+            2.2,
+            20.96
+          ],
+          "n": 5,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "Part 1: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg": {
+        "os": {
+          "median": 12.58,
+          "ci": [
+            6.87,
+            20.99
+          ],
+          "n": 40,
+          "unit": "Months"
+        },
+        "ae": {}
+      },
+      "Part 4: Durvalumab 1120 mg + Bevacizumab 15 mg/kg": {
+        "os": {
+          "median": null,
+          "ci": [
+            12.52,
+            null
+          ],
+          "n": 47,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 21.3,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Durvalumab 1500 mg": {
+        "os": {
+          "median": 12.91,
+          "ci": [
+            8.74,
+            16.79
+          ],
+          "n": 104,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 11.5,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Tremelimumab 300 mg + Durvalumab 1500 mg": {
+        "os": {
+          "median": 17.05,
+          "ci": [
+            10.55,
+            22.83
+          ],
+          "n": 75,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 24.0,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Tremelimumab 75 mg + Durvalumab 1500 mg": {
+        "os": {
+          "median": 11.3,
+          "ci": [
+            8.38,
+            14.95
+          ],
+          "n": 84,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 9.5,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Parts 2 and 3: Tremelimumab 750 mg": {
+        "os": {
+          "median": 17.05,
+          "ci": [
+            11.33,
+            20.24
+          ],
+          "n": 69,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 7.2,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2021-12-06",
+    "ctgov_results_last_updated": "2026-02-17"
+  },
+  {
+    "nct_id": "NCT07143435",
+    "condition": "Anemia, Iron-Deficiency",
+    "interventions": [],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-08-27"
+  },
+  {
+    "nct_id": "NCT05362825",
+    "condition": "Neoplasms, Multiple Primary",
+    "interventions": [
+      "Neo-adjuvant Chemotherapy FOLFOXIRI Regimen",
+      "synchronous resection surgery"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-05-11"
+  },
+  {
+    "nct_id": "NCT05761717",
+    "condition": null,
+    "interventions": [
+      "Neoantigen mRNA Personalised Cancer vaccine in combination with Stintilimab I njection"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-03-09"
+  },
+  {
+    "nct_id": "NCT03888092",
+    "condition": "Esophageal Squamous Cell Carcinoma",
+    "interventions": [
+      "Z650"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-03-21"
+  },
+  {
+    "nct_id": "NCT05432492",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "AK112"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-03-04"
+  },
+  {
+    "nct_id": "NCT02013492",
+    "condition": "Breast Neoplasms, Male",
+    "interventions": [
+      "propranolol hydrochloride",
+      "Correlative Studies"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-12-06"
+  },
+  {
+    "nct_id": "NCT03179436",
+    "condition": "Parkinson Disease 4, Autosomal Dominant Lewy Body",
+    "interventions": [
+      "Quavonlimab",
+      "Pembrolizumab",
+      "Pembrolizumab/Quavonlimab"
+    ],
+    "metrics": {
+      "Arm A: MK-1308 25 mg Q3W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 50.0,
+          "overall_ae_pct": 95.0
+        }
+      },
+      "Arm B: MK-1308 25 mg Q6W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 35.0,
+          "overall_ae_pct": 95.0
+        }
+      },
+      "Arm C: MK-1308 75 mg Q6W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 57.49999999999999,
+          "overall_ae_pct": 95.0
+        }
+      },
+      "Arm D: MK-1308 75 mg Q6W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 40.0,
+          "overall_ae_pct": 92.5
+        }
+      },
+      "Arm E: MK-1308 75 mg Q3W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 71.42857142857143,
+          "overall_ae_pct": 92.85714285714286
+        }
+      },
+      "Arm F: MK-1308 25 mg Q6W + Pembro. 400 mg Q6W Co-admin": {
+        "orr": {
+          "orr_pct": 4.9,
+          "unit": "Percentage of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 27.927927927927925,
+          "overall_ae_pct": 91.8918918918919
+        }
+      },
+      "Arm F: MK-1308 25 mg Q6W + Pembro. 400 mg Q6W Co-admin After Crossover": {
+        "ae": {
+          "serious_ae_pct": 19.047619047619047,
+          "overall_ae_pct": 80.95238095238095
+        }
+      },
+      "Arm G: MK-1308 25 mg Q6W": {
+        "orr": {
+          "orr_pct": 2.5,
+          "unit": "Percentage of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 22.5,
+          "overall_ae_pct": 77.5
+        }
+      },
+      "Arm I: MK-1308A Q6W (Co-form)": {
+        "ae": {
+          "serious_ae_pct": 51.724137931034484,
+          "overall_ae_pct": 89.65517241379311
+        }
+      },
+      "Arm K: MK-1308A Q6W (Co-form)": {
+        "ae": {
+          "serious_ae_pct": 20.0,
+          "overall_ae_pct": 80.0
+        }
+      },
+      "Cohort 1: MK-1308 25 mg Q3W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 14.285714285714285,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Cohort 2: MK-1308 75 mg Q3W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 58.82352941176471,
+          "overall_ae_pct": 94.11764705882352
+        }
+      },
+      "Cohort 3: MK-1308 200 mg Q3W + Pembro. 200 mg Q3W": {
+        "ae": {
+          "serious_ae_pct": 50.0,
+          "overall_ae_pct": 100.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2025-04-08",
+    "ctgov_results_last_updated": "2025-04-08"
+  },
+  {
+    "nct_id": "NCT00002611",
+    "condition": "Kidney Neoplasms",
+    "interventions": [
+      "dactinomycin",
+      "filgrastim",
+      "cyclophosphamide",
+      "doxorubicin hydrochloride",
+      "etoposide",
+      "vincristine sulfate",
+      "conventional surgery",
+      "radiation therapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2021-02-25"
+  },
+  {
+    "nct_id": "NCT01992809",
+    "condition": "Fatty Liver",
+    "interventions": [
+      "Omega 3"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-11-25"
+  },
+  {
+    "nct_id": "NCT03184493",
+    "condition": "Liver Neoplasms",
+    "interventions": [
+      "Celebrex plus Metformin",
+      "Celebrex",
+      "Metformin"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2019-05-31"
+  },
+  {
+    "nct_id": "NCT06072521",
+    "condition": "Hepatic Encephalopathy",
+    "interventions": [
+      "Lactoferrin Bovine"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-10-17"
+  },
+  {
+    "nct_id": "NCT05293535",
+    "condition": null,
+    "interventions": [
+      "Prognostic study"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-01-31"
+  },
+  {
+    "nct_id": "NCT05003700",
+    "condition": "Carcinoma, Hepatocellular",
+    "interventions": [
+      "Hepatic arterial infusion chemotherapy",
+      "Lenvatinib",
+      "Camrelizumab"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-11-05"
+  },
+  {
+    "nct_id": "NCT07223307",
+    "condition": "Liver Neoplasms",
+    "interventions": [
+      "MRI-guided adaptive stereotactic ablative body radiotherapy (SABR)"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-02-09"
+  },
+  {
+    "nct_id": "NCT04052971",
+    "condition": null,
+    "interventions": [
+      "ABN401- Escalation Phase",
+      "ABN401- Expansion Phase"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2025-01-06"
+  },
+  {
+    "nct_id": "NCT02935634",
+    "condition": null,
+    "interventions": [
+      "Nivolumab",
+      "Ipilimumab",
+      "Relatlimab",
+      "BMS-986205",
+      "Rucaparib"
+    ],
+    "metrics": {
+      "Track 1: Ipilimumab + Rucaparib": {
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 75.0,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 1: Nivolumab + BMS-986016": {
+        "orr": {
+          "orr_pct": 5.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 75.0,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 1: Nivolumab + BMS-986205": {
+        "orr": {
+          "orr_pct": 13.2,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 63.1578947368421,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 1: Nivolumab + Ipilimumab": {
+        "orr": {
+          "orr_pct": 4.3,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 82.6086956521739,
+          "overall_ae_pct": 91.30434782608695
+        }
+      },
+      "Track 1: Nivolumab + Ipilimumab + Rucaparib": {
+        "orr": {
+          "orr_pct": 16.7,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 66.66666666666666,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 1: Nivolumab + Rucaparib": {
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 71.42857142857143,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 2: Ipilimumab + Rucaparib": {
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 100.0,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 2: Nivolumab + BMS-986016": {
+        "orr": {
+          "orr_pct": 5.6,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 66.66666666666666,
+          "overall_ae_pct": 94.44444444444444
+        }
+      },
+      "Track 2: Nivolumab + BMS-986205": {
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 54.54545454545454,
+          "overall_ae_pct": 95.45454545454545
+        }
+      },
+      "Track 2: Nivolumab + Ipilimumab": {
+        "orr": {
+          "orr_pct": 8.7,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 73.91304347826086,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 2: Nivolumab + Ipilimumab + Rucaparib": {
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 75.0,
+          "overall_ae_pct": 100.0
+        }
+      },
+      "Track 2: Nivolumab + Rucaparib": {
+        "orr": {
+          "orr_pct": 0.0,
+          "unit": "Percent of participants"
+        },
+        "ae": {
+          "serious_ae_pct": 66.66666666666666,
+          "overall_ae_pct": 100.0
+        }
+      }
+    },
+    "ctgov_results_first_posted": "2023-06-09",
+    "ctgov_results_last_updated": "2023-06-09"
+  },
+  {
+    "nct_id": "NCT07362264",
+    "condition": "Liver Neoplasms",
+    "interventions": [
+      "SH006"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2026-01-23"
+  },
+  {
+    "nct_id": "NCT00040898",
+    "condition": "Liver Neoplasms",
+    "interventions": [
+      "Sho-saiko-to"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2013-01-18"
+  },
+  {
+    "nct_id": "NCT02174887",
+    "condition": null,
+    "interventions": [
+      "Nab-paclitaxel + Gemcitabine"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2017-03-28"
+  },
+  {
+    "nct_id": "NCT05322187",
+    "condition": "Hepatoblastoma",
+    "interventions": [
+      "PD-1 inhibitor"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2022-04-11"
+  },
+  {
+    "nct_id": "NCT04513314",
+    "condition": "COVID-19",
+    "interventions": [
+      "Valproate",
+      "Quetiapine",
+      "Standard of Care"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2023-03-31"
+  },
+  {
+    "nct_id": "NCT04917484",
+    "condition": "Neuroendocrine Tumors",
+    "interventions": [
+      "Lu-177-DOTA-Octreotide"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2024-12-09"
+  },
+  {
+    "nct_id": "NCT03151447",
+    "condition": "Breast Neoplasms",
+    "interventions": [
+      "stereotactic body radiation therapy"
+    ],
+    "metrics": {},
+    "ctgov_results_first_posted": null,
+    "ctgov_results_last_updated": "2017-05-12"
+  },
+  {
+    "nct_id": "NCT00324155",
+    "condition": "Melanoma",
+    "interventions": [
+      "Ipilimumab",
+      "Placebo",
+      "Dacarbazine"
+    ],
+    "metrics": {
+      "Ipilimumab and Dacarbazine": {
+        "os": {
+          "median": 11.17,
+          "ci": [
+            9.4,
+            13.6
+          ],
+          "n": 250,
+          "unit": "Months"
+        },
+        "pfs": {
+          "median": 2.76,
+          "ci": [
+            2.63,
+            3.29
+          ],
+          "n": 250,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 15.2,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      },
+      "Placebo and Dacarbazine": {
+        "os": {
+          "median": 9.07,
+          "ci": [
+            7.75,
+            10.51
+          ],
+          "n": 252,
+          "unit": "Months"
+        },
+        "pfs": {
+          "median": 2.6,
+          "ci": [
+            2.56,
+            2.66
+          ],
+          "n": 252,
+          "unit": "Months"
+        },
+        "orr": {
+          "orr_pct": 10.3,
+          "unit": "Percentage of participants"
+        },
+        "ae": {}
+      }
+    },
+    "ctgov_results_first_posted": "2014-03-10",
+    "ctgov_results_last_updated": "2014-11-03"
+  }
+]

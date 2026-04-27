@@ -1,0 +1,25 @@
+Trial (NCT),Condition,Arm,Interventions,OS median,OS 95% CI low,OS 95% CI high,OS N,PFS median,PFS 95% CI low,PFS 95% CI high,PFS N,ORR %,CT.gov last updated
+NCT01841632,Liver Transplantation,MultiStem - Cohort 1,MultiStem,,,,,,,,,,2018-08-17
+NCT00320606,Liver Transplant; Liver Transplantation,Immunosuppression Withdrawal Arm,Immunosuppression Withdrawal,,,,,,,,,,2018-09-20
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",China Cohort: Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",30.69,13.96,,3.0,,,,,,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",China Cohort: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",6.28,0.66,23.82,6.0,,,,,,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",China Cohort: Tremelimumab 10 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",3.52,2.2,20.96,5.0,,,,,,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Part 1: Tremelimumab 1 mg/kg + Durvalumab 20 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",12.58,6.87,20.99,40.0,,,,,,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Part 4: Durvalumab 1120 mg + Bevacizumab 15 mg/kg,"Tremelimumab, Durvalumab, Bevacizumab",,12.52,,47.0,,,,,21.3,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Parts 2 and 3: Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",12.91,8.74,16.79,104.0,,,,,11.5,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 300 mg + Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",17.05,10.55,22.83,75.0,,,,,24.0,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 75 mg + Durvalumab 1500 mg,"Tremelimumab, Durvalumab, Bevacizumab",11.3,8.38,14.95,84.0,,,,,9.5,2026-02-17
+NCT02519348,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Parts 2 and 3: Tremelimumab 750 mg,"Tremelimumab, Durvalumab, Bevacizumab",17.05,11.33,20.24,69.0,,,,,7.2,2026-02-17
+NCT00183885,"Hepatocellular Carcinoma; Liver Cancer; Carcinoma, Hepatocellular; Liver Neoplasms",Cisplatin + Mitomycin-C,"mitomycin-c, cisplatin",,,,,,,,,,2025-10-30
+NCT01015833,"Advanced Adult Hepatocellular Carcinoma; Recurrent Hepatocellular Carcinoma; Stage III Hepatocellular Carcinoma AJCC v7; Stage IIIA Hepatocellular Carcinoma AJCC v7; Stage IIIB Hepatocellular Carcinoma AJCC v7; Stage IIIC Hepatocellular Carcinoma AJCC v7; Stage IV Hepatocellular Carcinoma AJCC v7; Stage IVA Hepatocellular Carcinoma AJCC v7; Stage IVB Hepatocellular Carcinoma AJCC v7; Unresectable Hepatocellular Carcinoma; Carcinoma, Hepatocellular","Arm I (Doxorubicin Hydrochloride, Sorafenib Tosylate)","Doxorubicin Hydrochloride, Laboratory Biomarker Analysis, Pharmacogenomic Study, Sorafenib Tosylate",8.9,7.1,10.8,180.0,,,,,7.3,2022-08-04
+NCT01015833,"Advanced Adult Hepatocellular Carcinoma; Recurrent Hepatocellular Carcinoma; Stage III Hepatocellular Carcinoma AJCC v7; Stage IIIA Hepatocellular Carcinoma AJCC v7; Stage IIIB Hepatocellular Carcinoma AJCC v7; Stage IIIC Hepatocellular Carcinoma AJCC v7; Stage IV Hepatocellular Carcinoma AJCC v7; Stage IVA Hepatocellular Carcinoma AJCC v7; Stage IVB Hepatocellular Carcinoma AJCC v7; Unresectable Hepatocellular Carcinoma; Carcinoma, Hepatocellular",Arm II (Sorafenib Tosylate),"Doxorubicin Hydrochloride, Laboratory Biomarker Analysis, Pharmacogenomic Study, Sorafenib Tosylate",10.5,7.6,13.8,176.0,,,,,3.3,2022-08-04
+NCT02825550,"Cancer of Liver; Liver Neoplasms; Carcinoma, Hepatocellular",Adverse Event,Taiwan ACE Beads,,,,,,,,,,2018-08-07
+NCT02157974,Hepatic Steatosis; Polycystic Ovarian Syndrome; Obesity; Fatty Liver; Polycystic Ovary Syndrome; Obesity,Control,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Hepatic Steatosis; Polycystic Ovarian Syndrome; Obesity; Fatty Liver; Polycystic Ovary Syndrome; Obesity,PCOS Medication Naive,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Hepatic Steatosis; Polycystic Ovarian Syndrome; Obesity; Fatty Liver; Polycystic Ovary Syndrome; Obesity,PCOS on COCPs,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Hepatic Steatosis; Polycystic Ovarian Syndrome; Obesity; Fatty Liver; Polycystic Ovary Syndrome; Obesity,PCOS on Metformin,Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02157974,Hepatic Steatosis; Polycystic Ovarian Syndrome; Obesity; Fatty Liver; Polycystic Ovary Syndrome; Obesity,"PCOS, Medication Naive + Byetta",Byetta 5Mcg Pen Injection,,,,,,,,,,2024-06-04
+NCT02007954,"Hepatocellular Carcinoma; Carcinoma, Hepatocellular",DEBDOX,DEBDOX,,,,,,,,,,2017-08-11
+NCT02471313,"Liver Cancer; Liver Neoplasm; Hepatocellular Carcinoma; HCC; Liver Neoplasms; Carcinoma, Hepatocellular",[18F] FMISO PET Scan,[18F] FMISO,,,,,,,,,,2019-04-23
+NCT00605722,Liver Cancer; Liver Neoplasms,Bevacizumab + Erlotinib,"bevacizumab (Avastin), erlotinib (Tarceva)",10.7,7.4,,51.0,35.3,22.4,49.9,51.0,0.0,2014-07-14
+NCT03026803,Liver Cancer; Hepatocellular Cancer; Liver Neoplasms,Oxaliplatin and Capecitabine,"Oxaliplatin, Capecitabine",,,,,,,,,,2017-04-13

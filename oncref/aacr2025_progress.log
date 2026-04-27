@@ -1,0 +1,131 @@
+[extract] opening /Users/rohansharma/Desktop/oncref/AACR2025_Proceedings_050725.pdf
+[extract] 6076 pages total — streaming to aacr2025_pages.jsonl
+[extract] 50/6076 (0.8%) 10.1 pg/s  eta 10.0 min
+[extract] 100/6076 (1.6%) 10.0 pg/s  eta 9.9 min
+[extract] 150/6076 (2.5%) 9.9 pg/s  eta 10.0 min
+[extract] 200/6076 (3.3%) 9.9 pg/s  eta 9.9 min
+[extract] 250/6076 (4.1%) 10.0 pg/s  eta 9.7 min
+[extract] 300/6076 (4.9%) 10.1 pg/s  eta 9.5 min
+[extract] 350/6076 (5.8%) 10.1 pg/s  eta 9.4 min
+[extract] 400/6076 (6.6%) 10.2 pg/s  eta 9.3 min
+[extract] 450/6076 (7.4%) 10.2 pg/s  eta 9.2 min
+[extract] 500/6076 (8.2%) 10.3 pg/s  eta 9.1 min
+[extract] 550/6076 (9.1%) 10.3 pg/s  eta 9.0 min
+[extract] 600/6076 (9.9%) 10.2 pg/s  eta 8.9 min
+[extract] 650/6076 (10.7%) 10.2 pg/s  eta 8.9 min
+[extract] 700/6076 (11.5%) 10.1 pg/s  eta 8.9 min
+[extract] 750/6076 (12.3%) 10.0 pg/s  eta 8.9 min
+[extract] 800/6076 (13.2%) 10.0 pg/s  eta 8.8 min
+[extract] 850/6076 (14.0%) 10.0 pg/s  eta 8.7 min
+[extract] 900/6076 (14.8%) 10.0 pg/s  eta 8.6 min
+[extract] 950/6076 (15.6%) 10.0 pg/s  eta 8.6 min
+[extract] 1000/6076 (16.5%) 10.0 pg/s  eta 8.5 min
+[extract] 1050/6076 (17.3%) 10.0 pg/s  eta 8.4 min
+[extract] 1100/6076 (18.1%) 10.0 pg/s  eta 8.3 min
+[extract] 1150/6076 (18.9%) 10.0 pg/s  eta 8.2 min
+[extract] 1200/6076 (19.7%) 10.0 pg/s  eta 8.1 min
+[extract] 1250/6076 (20.6%) 10.1 pg/s  eta 8.0 min
+[extract] 1300/6076 (21.4%) 10.1 pg/s  eta 7.9 min
+[extract] 1350/6076 (22.2%) 10.1 pg/s  eta 7.8 min
+[extract] 1400/6076 (23.0%) 10.1 pg/s  eta 7.7 min
+[extract] 1450/6076 (23.9%) 10.1 pg/s  eta 7.7 min
+[extract] 1500/6076 (24.7%) 10.1 pg/s  eta 7.6 min
+[extract] 1550/6076 (25.5%) 10.1 pg/s  eta 7.5 min
+[extract] 1600/6076 (26.3%) 10.0 pg/s  eta 7.5 min
+[extract] 1650/6076 (27.2%) 10.0 pg/s  eta 7.4 min
+[extract] 1700/6076 (28.0%) 9.9 pg/s  eta 7.3 min
+[extract] 1750/6076 (28.8%) 10.0 pg/s  eta 7.2 min
+[extract] 1800/6076 (29.6%) 9.9 pg/s  eta 7.2 min
+[extract] 1850/6076 (30.4%) 9.9 pg/s  eta 7.1 min
+[extract] 1900/6076 (31.3%) 9.9 pg/s  eta 7.1 min
+[extract] 1950/6076 (32.1%) 9.9 pg/s  eta 7.0 min
+[extract] 2000/6076 (32.9%) 9.8 pg/s  eta 6.9 min
+[extract] 2050/6076 (33.7%) 9.8 pg/s  eta 6.8 min
+[extract] 2100/6076 (34.6%) 9.8 pg/s  eta 6.8 min
+[extract] 2150/6076 (35.4%) 9.8 pg/s  eta 6.7 min
+[extract] 2200/6076 (36.2%) 9.8 pg/s  eta 6.6 min
+[extract] 2250/6076 (37.0%) 9.8 pg/s  eta 6.5 min
+[extract] 2300/6076 (37.9%) 9.8 pg/s  eta 6.4 min
+[extract] 2350/6076 (38.7%) 9.8 pg/s  eta 6.3 min
+[extract] 2400/6076 (39.5%) 9.7 pg/s  eta 6.3 min
+[extract] 2450/6076 (40.3%) 9.7 pg/s  eta 6.2 min
+[extract] 2500/6076 (41.1%) 9.7 pg/s  eta 6.1 min
+[extract] 2550/6076 (42.0%) 9.6 pg/s  eta 6.1 min
+[extract] 2600/6076 (42.8%) 9.6 pg/s  eta 6.1 min
+[extract] 2650/6076 (43.6%) 9.5 pg/s  eta 6.0 min
+[extract] 2700/6076 (44.4%) 9.4 pg/s  eta 6.0 min
+[extract] 2750/6076 (45.3%) 9.4 pg/s  eta 5.9 min
+[extract] 2800/6076 (46.1%) 9.4 pg/s  eta 5.8 min
+[extract] 2850/6076 (46.9%) 9.4 pg/s  eta 5.7 min
+[extract] 2900/6076 (47.7%) 9.4 pg/s  eta 5.6 min
+[extract] 2950/6076 (48.6%) 9.4 pg/s  eta 5.6 min
+[extract] 3000/6076 (49.4%) 9.3 pg/s  eta 5.5 min
+[extract] 3050/6076 (50.2%) 9.3 pg/s  eta 5.4 min
+[extract] 3100/6076 (51.0%) 9.4 pg/s  eta 5.3 min
+[extract] 3150/6076 (51.8%) 9.4 pg/s  eta 5.2 min
+[extract] 3200/6076 (52.7%) 9.3 pg/s  eta 5.2 min
+[extract] 3250/6076 (53.5%) 9.3 pg/s  eta 5.1 min
+[extract] 3300/6076 (54.3%) 9.3 pg/s  eta 5.0 min
+[extract] 3350/6076 (55.1%) 9.4 pg/s  eta 4.9 min
+[extract] 3400/6076 (56.0%) 9.4 pg/s  eta 4.8 min
+[extract] 3450/6076 (56.8%) 9.3 pg/s  eta 4.7 min
+[extract] 3500/6076 (57.6%) 9.3 pg/s  eta 4.6 min
+[extract] 3550/6076 (58.4%) 9.4 pg/s  eta 4.5 min
+[extract] 3600/6076 (59.2%) 9.4 pg/s  eta 4.4 min
+[extract] 3650/6076 (60.1%) 9.3 pg/s  eta 4.3 min
+[extract] 3700/6076 (60.9%) 9.3 pg/s  eta 4.3 min
+[extract] 3750/6076 (61.7%) 9.3 pg/s  eta 4.2 min
+[extract] 3800/6076 (62.5%) 9.3 pg/s  eta 4.1 min
+[extract] 3850/6076 (63.4%) 9.2 pg/s  eta 4.0 min
+[extract] 3900/6076 (64.2%) 9.3 pg/s  eta 3.9 min
+[extract] 3950/6076 (65.0%) 9.3 pg/s  eta 3.8 min
+[extract] 4000/6076 (65.8%) 9.3 pg/s  eta 3.7 min
+[extract] 4050/6076 (66.7%) 9.1 pg/s  eta 3.7 min
+[extract] 4100/6076 (67.5%) 9.2 pg/s  eta 3.6 min
+[extract] 4150/6076 (68.3%) 9.2 pg/s  eta 3.5 min
+[extract] 4200/6076 (69.1%) 9.2 pg/s  eta 3.4 min
+[extract] 4250/6076 (69.9%) 9.2 pg/s  eta 3.3 min
+[extract] 4300/6076 (70.8%) 9.1 pg/s  eta 3.3 min
+[extract] 4350/6076 (71.6%) 9.1 pg/s  eta 3.2 min
+[extract] 4400/6076 (72.4%) 9.1 pg/s  eta 3.1 min
+[extract] 4450/6076 (73.2%) 9.1 pg/s  eta 3.0 min
+[extract] 4500/6076 (74.1%) 9.1 pg/s  eta 2.9 min
+[extract] 4550/6076 (74.9%) 9.1 pg/s  eta 2.8 min
+[extract] 4600/6076 (75.7%) 9.0 pg/s  eta 2.7 min
+[extract] 4650/6076 (76.5%) 9.1 pg/s  eta 2.6 min
+[extract] 4700/6076 (77.4%) 9.1 pg/s  eta 2.5 min
+[extract] 4750/6076 (78.2%) 9.1 pg/s  eta 2.4 min
+[extract] 4800/6076 (79.0%) 9.1 pg/s  eta 2.3 min
+[extract] 4850/6076 (79.8%) 9.0 pg/s  eta 2.3 min
+[extract] 4900/6076 (80.6%) 9.0 pg/s  eta 2.2 min
+[extract] 4950/6076 (81.5%) 9.0 pg/s  eta 2.1 min
+[extract] 5000/6076 (82.3%) 9.0 pg/s  eta 2.0 min
+[extract] 5050/6076 (83.1%) 9.1 pg/s  eta 1.9 min
+[extract] 5100/6076 (83.9%) 9.1 pg/s  eta 1.8 min
+[extract] 5150/6076 (84.8%) 9.0 pg/s  eta 1.7 min
+[extract] 5200/6076 (85.6%) 9.0 pg/s  eta 1.6 min
+[extract] 5250/6076 (86.4%) 9.0 pg/s  eta 1.5 min
+[extract] 5300/6076 (87.2%) 9.0 pg/s  eta 1.4 min
+[extract] 5350/6076 (88.1%) 9.0 pg/s  eta 1.3 min
+[extract] 5400/6076 (88.9%) 9.0 pg/s  eta 1.2 min
+[extract] 5450/6076 (89.7%) 9.0 pg/s  eta 1.2 min
+[extract] 5500/6076 (90.5%) 9.0 pg/s  eta 1.1 min
+[extract] 5550/6076 (91.3%) 9.0 pg/s  eta 1.0 min
+[extract] 5600/6076 (92.2%) 9.0 pg/s  eta 0.9 min
+[extract] 5650/6076 (93.0%) 9.0 pg/s  eta 0.8 min
+[extract] 5700/6076 (93.8%) 9.1 pg/s  eta 0.7 min
+[extract] 5750/6076 (94.6%) 9.1 pg/s  eta 0.6 min
+[extract] 5800/6076 (95.5%) 9.0 pg/s  eta 0.5 min
+[extract] 5850/6076 (96.3%) 9.0 pg/s  eta 0.4 min
+[extract] 5900/6076 (97.1%) 9.0 pg/s  eta 0.3 min
+[extract] 5950/6076 (97.9%) 9.0 pg/s  eta 0.2 min
+[extract] 6000/6076 (98.7%) 9.0 pg/s  eta 0.1 min
+[extract] 6050/6076 (99.6%) 9.0 pg/s  eta 0.0 min
+[extract] 6076/6076 (100.0%) 9.0 pg/s  eta 0.0 min
+[extract] done — 6076 pages to /Users/rohansharma/Desktop/oncref/aacr2025_pages.jsonl
+[main] 6,076 pages loaded
+parse:   0%|          | 0/6076 [00:00<?, ?it/s]parse:  21%|██        | 1260/6076 [00:00<00:00, 12593.32it/s]parse:  44%|████▎     | 2656/6076 [00:00<00:00, 13396.20it/s]parse:  67%|██████▋   | 4101/6076 [00:00<00:00, 13873.77it/s]parse:  92%|█████████▏| 5573/6076 [00:00<00:00, 14201.60it/s]parse: 100%|██████████| 6076/6076 [00:00<00:00, 13828.80it/s]
+[main] parsed 6,032 abstracts
+[main] wrote JSON cache → /Users/rohansharma/Desktop/oncref/aacr2025_abstracts.json
+[main] skipping Mongo (--no-mongo)
+[main] elapsed 681.8s
